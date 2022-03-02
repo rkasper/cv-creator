@@ -1,20 +1,10 @@
-@font-face {
-  font-family: Publico Headline Web Bold;
-  src: url(//db.onlinewebfonts.com/c/18388ffae47d04063d2b24fc4a9cff60?family=Publico+Headline+Web+Bold);
-}
-@font-face {
-  font-family: Pacifico;
-  src: url(pacifico.ttf);
-}
-@font-face {
-  font-family: Source Sans Pro;
-  font-weight: 400;
-  src: url(sourcesanspro-regular.otf);
-}
-@font-face {
-  font-family: Source Sans Pro;
-  font-weight: 700;
-  src: url(sourcesanspro-bold.otf);
+@font-face {font-family: "Publico Headline Web Bold";
+    src: url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/18388ffae47d04063d2b24fc4a9cff60.svg#Publico Headline Web Bold") format("svg"); /* iOS 4.1- */
 }
 
 @page {
@@ -54,14 +44,14 @@ a:visited {
 
 body {
   color: #000000;
-  font-family: "Publico Headline", serif;
+  font-family: "Publico Text", serif;
   margin: 0;
   font-size: 10pt;
 }
 
 h1 {
   color: #5CA5DC;
-  font-family: "Publico Headline", serif;
+  font-family: "Publico Headline Web Bold", serif;
   font-size: 20pt;
   margin: 0;
   text-align: center;
@@ -69,7 +59,7 @@ h1 {
 
 h2 {
   color: #5CA5DC;
-  font-family: "Publico Headline", serif;
+  font-family: "Publico Headline Web Bold", serif;
   font-size: 14pt;
   margin: 0;
 }
