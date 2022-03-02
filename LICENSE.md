@@ -1,0 +1,1 @@
+[cv-creator](https://github.com/rkasper/cv-creator) © 2022 by [Richard Kasperowski](https://kasperowski.com/) is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

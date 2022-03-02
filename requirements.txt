@@ -1,0 +1,17 @@
+Brotli==1.0.9
+cffi==1.15.0
+cssselect2==0.5.0
+fonttools==4.29.1
+html5lib==1.1
+importlib-metadata==4.11.2
+Markdown==3.3.6
+Pillow==9.0.1
+pycparser==2.21
+pydyf==0.1.2
+pyphen==0.12.0
+six==1.16.0
+tinycss2==1.1.1
+weasyprint==54.2
+webencodings==0.5.1
+zipp==3.7.0
+zopfli==0.1.9
