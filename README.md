@@ -8,7 +8,7 @@ This little script seamlessly converts your CV from Markdown to elegant PDF.
 
 _cv-creator_ takes an enhanced markdown file, converts it to HTML (using [Python-Markdown](https://python-markdown.github.io)), and converts the HTML to PDF thanks to [WeasyPrint](https://weasyprint.org/).
 
-What's that - an enhanced markdown file? Yep, we use [SmartyPants](https://python-markdown.github.io/extensions/smarty/) to do things like convent -- to &endash. How cool is that?!?  
+What's that - an enhanced markdown file? Yep, we use [SmartyPants](https://python-markdown.github.io/extensions/smarty/) to do things like convert -- to &endash. How cool is that?!?  
 
 Hey, what?!? Customizing the PDF file?!? Yep, that's right! Take a look at [CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/).
 
@@ -16,8 +16,8 @@ Hey, what?!? Customizing the PDF file?!? Yep, that's right! Take a look at [CSS 
 
 1. Create your CV in Markdown as `cv.md`.
 2. Adjust the CSS file `cv.css`.
-3. Run the script.
-4. Enjoy the output files, `cv.html` and `cv.pdf`.
+3. Run the script: `python3 cv-creator`
+4. Enjoy the generated output files, `cv.html` and `cv.pdf`.
 
 ## Credit
 [Richard Kasperowski](https://kasperowski.com) created this. I was inpired by, and got started by forking, [Romain Ginestou](https://github.com/rginestou) 's [MarkReport](https://github.com/rginestou/MarkReport). Thanks, Romain!
@@ -29,7 +29,7 @@ Here are some things left to do:
 * ~~Remove setup.py.~~
 * ~~Clean up my pip database. Start over with the minimum 'pip install's. Create a requirements.txt file.~~
 * ~~Rename main.py.~~
-* ~~Clean up the original repo~~ and make my first big commit+push.
+* ~~Clean up the original repo and make my first big commit+push.~~
 * Move generated files to their own subdir.
 * Add CSS to the generated HTML file.
 * Add the rest of my CV to the .md file.
