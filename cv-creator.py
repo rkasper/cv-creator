@@ -14,10 +14,12 @@ if __name__ == '__main__':
     if not os.path.exists(OUTPUT_DIR):
         os.mkdir(OUTPUT_DIR)
 
-    with open('generated/cv.html', 'w') as f:
+    with open(OUTPUT_DIR + '/cv.html', 'w') as f:
         f.write(html)
 
     font_config = FontConfiguration()
-    css = CSS('cv.css')
+    print(font_config)
+
+    css = CSS('cv.css', font_config=font_config)
     html = HTML(OUTPUT_DIR + '/cv.html')
     html.write_pdf(OUTPUT_DIR + '/cv.pdf', stylesheets=[css], font_config=font_config)
