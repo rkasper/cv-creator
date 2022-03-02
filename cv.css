@@ -39,6 +39,15 @@ html {
   font-size: 10pt;
   line-height: 1.6;
 }
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
 body {
   color: #000000;
   margin: 0;
