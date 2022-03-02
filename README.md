@@ -36,4 +36,3 @@ Here are some things left to do:
 * Tweak the fonts so they look more like the ones in the Pages version of my CV.
 * Tweak the page layout so it looks more like the Pages version of my CV.* Add CSS to the generated HTML file.
 * Generalize it as a web app?
-* 
