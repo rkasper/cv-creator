@@ -37,7 +37,7 @@ Here are some things left to do:
 * ~~Tweak the style of hyperlinks.~~
 * Tweak the fonts so they look more like the ones in the Pages version of my CV.
   * ~~H1~~
-  * H2
+  * ~~H2~~
   * H3
   * body
   * footer
