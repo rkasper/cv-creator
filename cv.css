@@ -3,7 +3,7 @@
 @import url("http://db.onlinewebfonts.com/c/1273d9cc8e74f85a3e5dd1b732aa2b4c?family=Avenir+Next+Cyr");
 
 @page {
-  font-family: sans-serif;
+  font-family: "Avenir Next Cyr", sans-serif;
   margin: 1in;
   @bottom-left {
     color: #a9a;
@@ -39,7 +39,8 @@ a:visited {
 
 body {
   color: #000000;
-  font-family: "Publico Text", serif;
+  font-family: serif;
+  /*font-weight: lighter;*/
   margin: 0;
   font-size: 10pt;
 }
@@ -61,7 +62,7 @@ h2 {
 
 h3 {
   color: #5CA5DC;
-  font-family: "Avenir Next Cyr", sans-serif;
+  font-family: "Avenir Next Cyr", serif;
   font-size: 9pt;
   margin: 0;
 }
