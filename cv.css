@@ -1,5 +1,6 @@
 @import url("http://db.onlinewebfonts.com/c/18388ffae47d04063d2b24fc4a9cff60?family=Publico+Headline+Web+Bold");
 @import url("http://db.onlinewebfonts.com/c/24ccee2ccbf3d81b58e3ef583a2431e5?family=Publico+Text+Web");
+@import url("http://db.onlinewebfonts.com/c/1273d9cc8e74f85a3e5dd1b732aa2b4c?family=Avenir+Next+Cyr");
 
 @page {
   font-family: sans-serif;
@@ -60,7 +61,7 @@ h2 {
 
 h3 {
   color: #5CA5DC;
-  font-family: sans-serif;
+  font-family: "Avenir Next Cyr", sans-serif;
   font-size: 9pt;
   margin: 0;
 }
