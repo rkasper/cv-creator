@@ -32,7 +32,8 @@ Here are some things left to do:
 * ~~Clean up the original repo and make my first big commit+push.~~
 * ~~Move generated files to their own subdir.~~
 * ~~Add the rest of my CV to the .md file.~~
-* Add a page on my website that embeds the .pdf file from github.com.
+* ~~Add a page on my website that embeds the .pdf file from github.com.~~
+* Add this project to my CV.
 * Tweak the style of hyperlinks.
 * Tweak the fonts so they look more like the ones in the Pages version of my CV.
 * Tweak the layout so H2 and H3 display in caps.
