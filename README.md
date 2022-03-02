@@ -30,9 +30,10 @@ Here are some things left to do:
 * ~~Clean up my pip database. Start over with the minimum 'pip install's. Create a requirements.txt file.~~
 * ~~Rename main.py.~~
 * ~~Clean up the original repo and make my first big commit+push.~~
-* Move generated files to their own subdir.
-* Add CSS to the generated HTML file.
+* ~~Move generated files to their own subdir.~~
 * Add the rest of my CV to the .md file.
 * Add a page on my website that embeds the .pdf file from github.com.
-* Tweak tho fonts so they look more like the ones in the Pages version of my CV.
-* Tweak the page layout so it looks more like the Pages version of my CV.
+* Tweak the fonts so they look more like the ones in the Pages version of my CV.
+* Tweak the page layout so it looks more like the Pages version of my CV.* Add CSS to the generated HTML file.
+* Generalize it as a web app?
+* 
