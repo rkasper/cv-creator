@@ -1,5 +1,6 @@
 @import url("http://db.onlinewebfonts.com/c/18388ffae47d04063d2b24fc4a9cff60?family=Publico+Headline+Web+Bold");
-@import url("http://db.onlinewebfonts.com/c/24ccee2ccbf3d81b58e3ef583a2431e5?family=Publico+Text+Web");
+@import url("http://db.onlinewebfonts.com/c/24ccee2ccbf3d81b58e3ef583a2431e5?family=Publico+Text+Web+Bold");
+@import url("http://db.onlinewebfonts.com/c/0d39a4e3c36c494c84e2c38618bfed33?family=Publico+Text+Web");
 @import url("http://db.onlinewebfonts.com/c/1273d9cc8e74f85a3e5dd1b732aa2b4c?family=Avenir+Next+Cyr");
 
 @page {
@@ -39,7 +40,7 @@ a:visited {
 
 body {
   color: #000000;
-  font-family: serif;
+  font-family: "Publico Text Web", serif;
   /*font-weight: lighter;*/
   margin: 0;
   font-size: 10pt;
@@ -55,15 +56,15 @@ h1 {
 
 h2 {
   color: #5CA5DC;
-  font-family: "Publico Text Web", serif;
+  font-family: "Publico Text Web Bold", serif;
   font-size: 14pt;
   margin: 0;
 }
 
 h3 {
   color: #5CA5DC;
-  font-family: "Avenir Next Cyr", serif;
-  font-size: 9pt;
+  font-family: "Avenir Next Cyr", sans-serif;
+  font-size: 10pt;
   margin: 0;
 }
 

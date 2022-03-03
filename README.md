@@ -39,8 +39,9 @@ Here are some things left to do:
   * ~~H1~~
   * ~~H2~~
   * ~~H3~~
-  * body
+  * ~~body~~
   * ~~footer~~
+* Student reviews: italicize so they look like quotes.
 * Tweak the layout of lists so top-level lists are left-justified.
 * Tweak the layout of H2 and H3 so they display in caps.
 * Tweak the page layout so it looks more like the Pages version of my CV.* Add CSS to the generated HTML file.

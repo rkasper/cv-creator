@@ -20,6 +20,5 @@ if __name__ == '__main__':
     font_config = FontConfiguration()
 
     css = CSS('cv.css', font_config=font_config)
-    print(font_config)
     html = HTML(OUTPUT_DIR + '/cv.html')
     html.write_pdf(OUTPUT_DIR + '/cv.pdf', stylesheets=[css], font_config=font_config)
