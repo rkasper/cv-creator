@@ -49,3 +49,4 @@ Here are some things left to do:
 * ~~Generate a styled HTML file.~~
 * Generate a .doc file.
 * Generalize it as a web app?
+* Improve on-screen rendering.
