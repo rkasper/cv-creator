@@ -73,8 +73,7 @@ h3 {
 }
 
 ul {
-  margin: 0;
-  padding: 1em;
+  padding: 0 0 0 1em; /* top | right | bottom | left */
 }
 
 aside {
