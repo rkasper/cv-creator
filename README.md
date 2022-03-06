@@ -1,8 +1,10 @@
 # cv-creator
 
-I want the HTML and PDF versions of my resume to look the same. I want to edit my resume once, and have it look the same in both file formats...
+I want a version-controlled resume that's always ready for people to read, always in a format that looks good on screen and in print.
 
-This little script seamlessly converts your CV from Markdown to elegant PDF.
+I want to edit my resume once, and have it look the same in all output formats...
+
+This little script seamlessly converts my CV from Markdown to elegant PDF.
 
 ## How does it work?
 
