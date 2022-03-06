@@ -46,6 +46,6 @@ Here are some things left to do:
 * ~~Tweak the layout of H2 and H3 so they display in caps.~~
 * ~~Tweak the page layout so it looks more like the Pages version of my CV.~~
 * ~~Italicize book titles and cum laude.~~
-* Generate a styled HTML file.
+* ~~Generate a styled HTML file.~~
 * Generate a .doc file.
 * Generalize it as a web app?
