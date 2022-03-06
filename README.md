@@ -4,7 +4,7 @@ I want a version-controlled resume that's always ready for people to read, alway
 
 I want to edit my resume once, and have it look the same in all output formats...
 
-This little script seamlessly converts my CV from Markdown to elegant PDF.
+This little script seamlessly converts my CV from Markdown to elegant PDF. Along the way, it generates a great looking HTML file and a good-enough Word file. (The vertical line spacing in the Word file is wonky; to fix it, you'll have to manually reformat everything to be single-spaced.)
 
 ## How does it work?
 
@@ -14,12 +14,14 @@ What's that - an enhanced markdown file? Yep, we use [SmartyPants](https://pytho
 
 Hey, what?!? Customizing the PDF file?!? Yep, that's right! Take a look at [CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/).
 
+Finally, we use [pdf2docx](https://pypi.org/project/pdf2docx/) to convert the PDF file to Word.
+
 ## How to use it?
 
 1. Create your CV in Markdown as `cv.md`.
 2. Adjust the CSS file `cv.css`.
 3. Run the script: `python3 cv-creator`
-4. Enjoy the generated output files, `cv.html` and `cv.pdf`.
+4. Enjoy the generated output files, `cv.html`, `cv.pdf`, and `cv.docx`.
 
 ## Credit
 [Richard Kasperowski](https://kasperowski.com) created this. I was inpired by, and got started by forking, [Romain Ginestou](https://github.com/rginestou) 's [MarkReport](https://github.com/rginestou/MarkReport). Thanks, Romain!
