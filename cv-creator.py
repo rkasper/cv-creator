@@ -1,6 +1,8 @@
 import markdown
+from pdf2docx import parse
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
+
 
 OUTPUT_DIR = 'generated'
 
@@ -16,7 +18,7 @@ if __name__ == '__main__':
     parsed_html = HTML(string=simple_html)
     parsed_html.write_pdf(OUTPUT_DIR + '/cv.pdf', stylesheets=[css], font_config=font_config)
 
-    # Enhance simple HTML
+    # Enhance simple HTML and output HTML file
     full_html = '''<!DOCTYPE html>
 <head>
   <title>Richard Kasperowski - Curriculum Vitae</title>
@@ -25,3 +27,6 @@ if __name__ == '__main__':
 <body>''' + simple_html + '''</body></html>'''
     with open(OUTPUT_DIR + '/cv.html', 'w') as f:
         f.write(full_html)
+
+    # Convert PDF to Word file
+    parse(pdf_file=OUTPUT_DIR + '/cv.pdf', docx_with_path=OUTPUT_DIR + '/cv.docx')
