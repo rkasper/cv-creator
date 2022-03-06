@@ -55,4 +55,3 @@ Here are some things left to do:
 * ~~Refactor: factor-out the common parts of the CSS files.~~
 * ~~Generate a Word file.~~
 * Generalize it as a web app?
-* Improve on-screen rendering.
