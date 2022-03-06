@@ -50,7 +50,7 @@ Here are some things left to do:
 * ~~Italicize book titles and cum laude.~~
 * ~~Generate a styled HTML file.~~
 * ~~Improve web view.~~
-* Refactor: factor-out the common parts of the CSS files. 
+* ~~Refactor: factor-out the common parts of the CSS files.~~
 * Generate a .doc file.
 * Generalize it as a web app?
 * Improve on-screen rendering.
