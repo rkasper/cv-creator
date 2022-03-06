@@ -49,6 +49,8 @@ Here are some things left to do:
 * ~~Tweak the page layout so it looks more like the Pages version of my CV.~~
 * ~~Italicize book titles and cum laude.~~
 * ~~Generate a styled HTML file.~~
+* ~~Improve web view.~~
+* Refactor: factor-out the common parts of the CSS files. 
 * Generate a .doc file.
 * Generalize it as a web app?
 * Improve on-screen rendering.

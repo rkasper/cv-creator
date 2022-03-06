@@ -1,0 +1,88 @@
+@import url("https://db.onlinewebfonts.com/c/18388ffae47d04063d2b24fc4a9cff60?family=Publico+Headline+Web+Bold");
+@import url("https://db.onlinewebfonts.com/c/0d39a4e3c36c494c84e2c38618bfed33?family=Publico+Text+Web");
+@import url("https://db.onlinewebfonts.com/c/24ccee2ccbf3d81b58e3ef583a2431e5?family=Publico+Text+Web+Bold");
+@import url("https://db.onlinewebfonts.com/c/7f1500be337b04b554c7956cef297d90?family=Publico+Text+Web+Italic");
+@import url("https://db.onlinewebfonts.com/c/1273d9cc8e74f85a3e5dd1b732aa2b4c?family=Avenir+Next+Cyr");
+
+@page {
+  font-family: "Avenir Next Cyr", sans-serif;
+  margin: 0.83in 1.1in 0.83in 1.1in; /* top | right | bottom | left */
+  padding: 0 0 0 0;
+
+  @bottom-left {
+    content: 'Richard Kasperowski';
+    font-size: 8pt;
+  }
+  @bottom-center {
+    content: 'www.kasperowski.com';
+    font-size: 8pt;
+  }
+  @bottom-right {
+    content: 'richard@kasperowski.com';
+    font-size: 8pt;
+  }
+}
+
+html {
+  color: black;
+  font-family: "Publico Text Web", serif;
+  font-size: 10pt;
+  line-height: 1.6;
+}
+
+body {
+  color: black;
+  font-family: "Publico Text Web", serif;
+  font-size: 10pt;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+h1 {
+  color: #5CA5DC;
+  font-family: "Publico Headline Web Bold", serif;
+  font-size: 20pt;
+  text-align: center;
+}
+
+h2 {
+  color: #5CA5DC;
+  font-family: "Publico Text Web Bold", serif;
+  font-size: 14pt;
+  margin: 10pt 0 0 0;
+  text-transform: uppercase;
+  vertical-align: bottom;
+}
+
+h3 {
+  color: #5CA5DC;
+  font-family: "Avenir Next Cyr", sans-serif;
+  font-size: 10pt;
+  margin: 0 0 0 0;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0 0 10pt 0;
+  padding: 0 0 0 0;
+}
+
+em {
+  font-family: "Publico Text Web Italic", serif;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+ul {
+  padding: 0 0 0 0.14in; /* top | right | bottom | left */
+}
+
+li {
+  margin: 0 0 4pt 0;
+}

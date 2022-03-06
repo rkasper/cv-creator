@@ -1,5 +1,3 @@
-import os
-
 import markdown
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
@@ -14,7 +12,7 @@ if __name__ == '__main__':
 
     # Convert to PDF and output PDF file
     font_config = FontConfiguration()
-    css = CSS('cv.css', font_config=font_config)
+    css = CSS('static/print.css', font_config=font_config)
     parsed_html = HTML(string=simple_html)
     parsed_html.write_pdf(OUTPUT_DIR + '/cv.pdf', stylesheets=[css], font_config=font_config)
 
@@ -22,7 +20,7 @@ if __name__ == '__main__':
     full_html = '''<!DOCTYPE html>
 <head>
   <title>Richard Kasperowski - Curriculum Vitae</title>
-  <link rel="stylesheet" href="../cv.css">
+  <link rel="stylesheet" href="../static/web.css">
 </head>
 <body>''' + simple_html + '''</body></html>'''
     with open(OUTPUT_DIR + '/cv.html', 'w') as f:
