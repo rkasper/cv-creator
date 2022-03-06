@@ -72,6 +72,11 @@ h3 {
   margin: 0;
 }
 
+ul {
+  margin: 0;
+  padding: 1em;
+}
+
 aside {
   display: flex;
   margin: 2em 0 4em;
