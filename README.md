@@ -51,6 +51,6 @@ Here are some things left to do:
 * ~~Generate a styled HTML file.~~
 * ~~Improve web view.~~
 * ~~Refactor: factor-out the common parts of the CSS files.~~
-* Generate a .doc file.
+* ~~Generate a Word file.~~
 * Generalize it as a web app?
 * Improve on-screen rendering.
