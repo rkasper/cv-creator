@@ -63,6 +63,7 @@ h2 {
   font-family: "Publico Text Web Bold", serif;
   font-size: 14pt;
   margin: 0;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -70,6 +71,7 @@ h3 {
   font-family: "Avenir Next Cyr", sans-serif;
   font-size: 10pt;
   margin: 0;
+  text-transform: uppercase;
 }
 
 ul {
