@@ -35,7 +35,7 @@ Here are some things left to do:
 * ~~Add a page on my website that embeds the .pdf file from github.com.~~
 * ~~Add this project to my CV.~~
 * ~~Tweak the style of hyperlinks.~~
-* Tweak the fonts so they look more like the ones in the Pages version of my CV.
+* ~~Tweak the fonts so they look more like the ones in the Pages version of my CV.~~
   * ~~H1~~
   * ~~H2~~
   * ~~H3~~
