@@ -54,4 +54,5 @@ Here are some things left to do:
 * ~~Improve web view.~~
 * ~~Refactor: factor-out the common parts of the CSS files.~~
 * ~~Generate a Word file.~~
+* Add private keynotes & sessions.
 * Generalize it as a web app?
