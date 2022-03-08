@@ -54,5 +54,6 @@ Here are some things left to do:
 * ~~Improve web view.~~
 * ~~Refactor: factor-out the common parts of the CSS files.~~
 * ~~Generate a Word file.~~
+* Improve the Word file. Here's an idea for a hack: generate a 1-page PDF, on a page that's like 1000 inches long. Convert that PDF to Word.
 * Add private keynotes & sessions.
 * Generalize it as a web app?
