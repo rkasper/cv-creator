@@ -150,7 +150,8 @@ SpeakSpanish is the missing link in foreign language acquisition applications. I
 I focus on health-related start-ups and underrepresented founders. My goal is to assist founders on teaming skills, product development agility, and technical implementation, so we can enjoy amazingly successful exits together. My current portfolio includes:
 
 * [Simplifed](https://simplifed.us): female founder, provides lactation counseling for new mothers
-* [Moolah Kicks](https:// moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
+* [Moolah Kicks](https://moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
+* [Five.me](https://five.me): instant access to ask experts anything, any time -- like WhatsApp for MasterClass
 
 ### Mentor -- TechStars Boston -- 2015-2018
 I mentored founders at this accelerator for pre-seed-stage start-ups. My advice focused on agile software product development and high-performance team building skills.
