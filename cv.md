@@ -151,7 +151,7 @@ I focus on health-related start-ups and underrepresented founders. My goal is to
 
 * [Simplifed](https://simplifed.us): female founder, provides lactation counseling for new mothers
 * [Moolah Kicks](https://moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
-* [Five.me](https://five.me): instant access to ask experts anything, any time -- like WhatsApp for MasterClass
+* [Five.me](https://five.me): ask an expert anything, anytime -- like WhatsApp for MasterClass
 
 ### Mentor -- TechStars Boston -- 2015-2018
 I mentored founders at this accelerator for pre-seed-stage start-ups. My advice focused on agile software product development and high-performance team building skills.

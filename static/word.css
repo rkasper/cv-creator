@@ -1,0 +1,13 @@
+@import "common.css";
+@import "common-print.css";
+
+@page {
+  /* This is a hack to generate a PDF that is a single long page, and then convert that PDF to a Word file. pdf2docx
+    * formats my CV better when it doesn't care about page breaks; instead, we let Word figure it out on its own.
+    * Why the magic number 150in? I don't know, but this particular page length works for my CV. Adjust it
+    * appropriately for yours. */
+  size: 8.5in 150in;
+  font-family: "Avenir Next Cyr", sans-serif;
+  margin: 0.83in 1.1in 0.83in 1.1in; /* top | right | bottom | left */
+  padding: 0 0 0 0;
+}

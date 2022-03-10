@@ -1,4 +1,5 @@
 @import "common.css";
+@import "common-print.css";
 
 @page {
   font-family: "Avenir Next Cyr", sans-serif;
@@ -17,12 +18,4 @@
     content: 'richard@kasperowski.com';
     font-size: 8pt;
   }
-}
-
-body {
-  color: black;
-  font-family: "Publico Text Web", serif;
-  font-size: 10pt;
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
 }

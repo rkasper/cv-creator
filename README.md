@@ -19,9 +19,9 @@ Finally, we use [pdf2docx](https://pypi.org/project/pdf2docx/) to convert the PD
 ## How to use it?
 
 1. Create your CV in Markdown as `cv.md`.
-2. Adjust the CSS file `cv.css`.
+2. Adjust the CSS files.
 3. Run the script: `python3 cv-creator`
-4. Enjoy the generated output files, `cv.html`, `cv.pdf`, and `cv.docx`.
+4. Enjoy the generated output files, `cv.html`, `cv.pdf`, and `cv.docx`. (You might want to manually add some footers or other formatting to the generated Word file.)
 
 ## Credit
 [Richard Kasperowski](https://kasperowski.com) created this. I was inpired by, and got started by forking, [Romain Ginestou](https://github.com/rginestou) 's [MarkReport](https://github.com/rginestou/MarkReport). Thanks, Romain!
@@ -54,6 +54,6 @@ Here are some things left to do:
 * ~~Improve web view.~~
 * ~~Refactor: factor-out the common parts of the CSS files.~~
 * ~~Generate a Word file.~~
-* Improve the Word file. Here's an idea for a hack: generate a 1-page PDF, on a page that's like 1000 inches long. Convert that PDF to Word.
+* ~~Improve the Word file. Here's an idea for a hack: generate a 1-page PDF, on a page that's like 1000 inches long. Convert that PDF to Word.~~
 * Add private keynotes & sessions.
 * Generalize it as a web app?

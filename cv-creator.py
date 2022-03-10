@@ -1,18 +1,21 @@
+import os
+
 import markdown
 from pdf2docx import parse
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 
-WEB_CSS_FILE = 'static/web.css'
-
-PRINT_CSS_FILE = 'static/print.css'
-
 MARKDOWN_FILE = 'cv.md'
 
+WEB_CSS_FILE = 'static/web.css'
+PDF_CSS_FILE = 'static/pdf.css'
+WORD_CSS_FILE = 'static/word.css'
+
 OUTPUT_DIR = 'generated'
-DOCX_FILE = OUTPUT_DIR + '/cv.docx'
 HTML_FILE = OUTPUT_DIR + '/cv.html'
 PDF_FILE = OUTPUT_DIR + '/cv.pdf'
+TMP_PDF_FILE = OUTPUT_DIR + '/tmp-cv.pdf'
+DOCX_FILE = OUTPUT_DIR + '/cv.docx'
 
 if __name__ == '__main__':
     # Convert Markdown file to simple HTML
@@ -20,9 +23,9 @@ if __name__ == '__main__':
         text = f.read()
         simple_html = markdown.markdown(text, extensions=['smarty'])
 
-    # Convert to PDF and output PDF file
+    # Convert simple HTML to PDF and output PDF file
     font_config = FontConfiguration()
-    css = CSS(PRINT_CSS_FILE, font_config=font_config)
+    css = CSS(PDF_CSS_FILE, font_config=font_config)
     parsed_html = HTML(string=simple_html)
     parsed_html.write_pdf(PDF_FILE, stylesheets=[css], font_config=font_config)
 
@@ -36,5 +39,10 @@ if __name__ == '__main__':
     with open(HTML_FILE, 'w') as f:
         f.write(full_html)
 
-    # Convert PDF to Word file
-    parse(pdf_file=PDF_FILE, docx_with_path=DOCX_FILE)
+    # Generate a one-page version of the PDF and output Word file
+    font_config = FontConfiguration()
+    css = CSS(WORD_CSS_FILE, font_config=font_config)
+    parsed_html = HTML(string=simple_html)
+    parsed_html.write_pdf(TMP_PDF_FILE, stylesheets=[css], font_config=font_config)
+    parse(pdf_file=TMP_PDF_FILE, docx_file=DOCX_FILE)
+    os.remove(TMP_PDF_FILE)
