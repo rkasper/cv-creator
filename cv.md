@@ -234,7 +234,7 @@ At this monthly meet-up, we taught first-wave mobile software application develo
     * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited). Also at Agile & Scrum 2021; TestingConf, 2020; Ministry of Testing Boston, 2020.
     * Lean Coffee to Build Stronger Teams -- A Miroverse Event, 2021 (invited).
     * Agile Product Owner Skills: How to Build the Right Thing -- Project Management Institute Minnesota Professional Development Day, 2021 (invited).
-    * Product Inception Canvas: How to Build the Right Thing -- Agile 2021. Also at BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited).
+    * Product Inception Canvas: How to Build the Right Thing -- Agile 2021. Also at BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile 2021 Minimum Viable Conference, 2021. Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019.
     * Panelist -- WEtalk Wicked Problems, 2020 (invited).
     * Ask Me Anything -- Agile Arizona, 2020 (invited).
