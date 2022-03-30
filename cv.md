@@ -4,7 +4,7 @@
 Richard Kasperowski is a clinical-professor-equivalent who melds tremendous skill in teaching and course creation and vast real-world experience in industry. Richard is a serial product developer, innovator, teacher, speaker, author, and coach focused on team building, high-performance teams, Agile software development, and digital product development. He is the author of two books, *[High-Performance Teams: The Foundations](https://kasperowski.com/high-performance-teams-the-foundations/)* and *[The Core Protocols: A Guide to Greatness](https://kasperowski.com/the-core-protocols/)*. He leads students and clients in building great teams that get great results using [the Core Protocols](https://thecoreprotocols.org/), [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology). Richard created and teaches the course [Agile Software Development](https://www.agilesoftwarecourse.org/) at Harvard University, and he co-teaches the [Spark!](https://www.bu.edu/spark/) fellowship at Boston University. Richard focuses on diversity, equity, inclusion, and collaboration in his teaching and consulting work.</p>
 
 ## Education
-### Harvard University -- HUES
+### Harvard University -- HES
 BLA *cum laude*, field of study Computer Science, 1996
 
 ### Scrum Alliance
