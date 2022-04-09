@@ -205,12 +205,13 @@ At this monthly meet-up, we taught first-wave mobile software application develo
 ## Publications
 
 * *High-Performance Team Building*, interactive e-book/ self-paced online course, to be published in 2022.
-* [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 79 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
+* [Manifesto for Online Collaboration](https://onlinecollaborationmanifesto.com), with Matt Barnaby, Barb Bickford, et al, 2022.
+* [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 81 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
 * [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 107 articles on team building, innovation, creativity, and agile software development, 2008-2022.
 * [*High-Performance Teams: The Foundations*](https://kasperowski.com/high-performance-teams-the-foundations/), C4Media, 2019.
 * ["High-Performance Team Behaviors" measurement instrument](https://kasperowski.com/diagnostic/), Comparative Agility, 2018.
 * [*Agile & Scrum Foundations Class Workbook*](https://kasperowski.com/agile-scrum-foundations-class-workbook/), With Great People Publications, 2018.
-* "Greatness Manifesto", co-author, 2015.
+* [Manifesto for Greatness](https://www.greatnessguild.org), with Algimantas Stancelis, Alice Ivashina, et al, 2015.
 * [*The Core Protocols: A Guide to Greatness*](https://kasperowski.com/the-core-protocols/), With Great People Publications, 2015.
 * "Building a Connected MIDlet, part 2," with Alex Bourgeois, Java Developers' Journal, March 2004.
 * "Building a Connected MIDlet, part 1," with Alex Bourgeois, Java Developers' Journal, December 2003.
