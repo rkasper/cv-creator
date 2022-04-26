@@ -7,14 +7,14 @@ from pdf2docx import parse
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 
-MARKDOWN_FILE = 'cv.md'
+DEFAULT_MARKDOWN_FILE = 'cv.md'
 
 WEB_CSS_FILE = 'static/web.css'
 PDF_CSS_FILE = 'static/pdf.css'
 WORD_CSS_FILE = 'static/word.css'
 
-OUTPUT_DIR = 'generated'
-HTML_TITLE = '''Richard Kasperowski - Curriculum Vitae'''
+DEFAULT_OUTPUT_DIR = 'generated'
+DEFAULT_HTML_TITLE = '''Richard Kasperowski - Curriculum Vitae'''
 HTML_FILE = 'cv.html'
 PDF_FILE = 'cv.pdf'
 TMP_PDF_FILE = 'tmp-cv.pdf'
@@ -23,12 +23,12 @@ DOCX_FILE = 'cv.docx'
 if __name__ == '__main__':
     # Handle command-line arg's
     parser = argparse.ArgumentParser()
-    parser.add_argument('-m', '--markdownfile', default=MARKDOWN_FILE,
-                        help='the MarkDown file to use as input. default:' + MARKDOWN_FILE)
-    parser.add_argument('-o', '--output', default=OUTPUT_DIR,
-                        help='output generated files to this directory. default:' + OUTPUT_DIR)
-    parser.add_argument('-t', '--title', default=HTML_TITLE,
-                        help='<title> of the generated HTML file. default:' + HTML_TITLE)
+    parser.add_argument('-m', '--markdownfile', default=DEFAULT_MARKDOWN_FILE,
+                        help='the MarkDown file to use as input. default:' + DEFAULT_MARKDOWN_FILE)
+    parser.add_argument('-o', '--output', default=DEFAULT_OUTPUT_DIR,
+                        help='output generated files to this directory. default:' + DEFAULT_OUTPUT_DIR)
+    parser.add_argument('-t', '--title', default=DEFAULT_HTML_TITLE,
+                        help='<title> of the generated HTML file. default:' + DEFAULT_HTML_TITLE)
     args = parser.parse_args()
     markdown_file = args.markdownfile
     output_dir = args.output
