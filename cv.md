@@ -52,7 +52,7 @@ By the end of the course, students understand Agile software development so thor
 ### Instructor -- Boston University -- 2018-present
 I serve as the team lead for software engineering, agile software development, and high-performance teams. My teaching topics include team building, interpersonal dynamics, agile software development, and technical skills.
 
-### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
+### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | Certified Agile Team Building -- 2013-present
 I created and teach the Certified Agile Team Building&trade; program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams. I publish a blog, and I am developing an interactive e-book/ self-paced online course on the same topic. Through the nearly 80 episodes of my podcast, With Great People: The Podcast for High-Performance Teams, I interview thought leaders in agility and team performance to share their knowledge with the world. 
 My industry classes include:
 
@@ -149,9 +149,10 @@ SpeakSpanish is the missing link in foreign language acquisition applications. I
 ### Angel Investor -- 2021-present
 I focus on health-related start-ups and underrepresented founders. My goal is to assist founders on teaming skills, product development agility, and technical implementation, so we can enjoy amazingly successful exits together. My current portfolio includes:
 
-* [Simplifed](https://simplifed.us): female founder, provides lactation counseling for new mothers
+* [Simplifed](https://simplifed.us): female founder, lactation counseling and products for new mothers and their babies
 * [Moolah Kicks](https://moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
 * [Five.me](https://five.me): ask an expert anything, anytime -- like WhatsApp for MasterClass
+* Apex Noire: Black founders, hiring for social justice; cannabis retailer and lounge
 
 ### Mentor -- TechStars Boston -- 2015-2018
 I mentored founders at this accelerator for pre-seed-stage start-ups. My advice focused on agile software product development and high-performance team building skills.
@@ -159,7 +160,7 @@ I mentored founders at this accelerator for pre-seed-stage start-ups. My advice 
 ### CTO, Co-Founder -- MobiLingua -- 2004
 (See description above.)
 
-## Community Building and participation
+## Community Building and Participation
 In my community work, I share my skills and resources to help people have more joyful lives. Much of my community work focuses on children, women, and people of color.
 
 ### Creator -- VaccinateAll.org -- 2021-present

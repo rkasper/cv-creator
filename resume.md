@@ -86,9 +86,10 @@ SpeakSpanish is the missing link in foreign language acquisition applications. I
 ### Angel Investor -- 2021-present
 I focus on health-related start-ups and underrepresented founders. My goal is to assist founders on teaming skills, product development agility, and technical implementation, so we can enjoy amazingly successful exits together. My current portfolio includes:
 
-* [Simplifed](https://simplifed.us): female founder, provides lactation counseling for new mothers
+* [Simplifed](https://simplifed.us): female founder, lactation counseling and products for new mothers and their babies
 * [Moolah Kicks](https://moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
 * [Five.me](https://five.me): ask an expert anything, anytime -- like WhatsApp for MasterClass
+* Apex Noire: Black founders, hiring for social justice; cannabis retailer and lounge
 
 ### Mentor -- TechStars Boston -- 2015-2018
 I mentored founders at this accelerator for pre-seed-stage start-ups. My advice focused on agile software product development and high-performance team building skills.
@@ -96,7 +97,7 @@ I mentored founders at this accelerator for pre-seed-stage start-ups. My advice 
 ### CTO, Co-Founder -- MobiLingua -- 2004
 (See description above.)
 
-## Community Building and participation
+## Community Building and Participation
 In my community work, I share my skills and resources to help people have more joyful lives. Much of my community work focuses on children, women, and people of color.
 
 ### Creator -- VaccinateAll.org -- 2021-present
