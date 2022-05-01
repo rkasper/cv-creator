@@ -19,9 +19,10 @@ Finally, we use [pdf2docx](https://pypi.org/project/pdf2docx/) to convert the PD
 ## How to use it?
 
 1. Create your CV in Markdown as `cv.md`.
+1. Create your resume in Markdown as `resume.md`.
 2. Adjust the CSS files.
-3. Run the script: `python3 cv-creator`
-4. Enjoy the generated output files, `cv.html`, `cv.pdf`, and `cv.docx`. (You might want to manually add some footers or other formatting to the generated Word file.)
+3. Run the script: `./generate-cv-and-resume.sh`
+4. Enjoy the generated output files, `cv.html`, `cv.pdf`, `cv.docx`, `resume.html`, `resume.pdf`, and `resume.docx`. (You might want to manually add some footers or other formatting to the generated Word file.)
 
 ## Credit
 [Richard Kasperowski](https://kasperowski.com) created this. I was inpired by, and got started by forking, [Romain Ginestou](https://github.com/rginestou) 's [MarkReport](https://github.com/rginestou/MarkReport). Thanks, Romain!
@@ -55,7 +56,8 @@ Here are some things left to do:
 * ~~Refactor: factor-out the common parts of the CSS files.~~
 * ~~Generate a Word file.~~
 * ~~Improve the Word file. Here's an idea for a hack: generate a 1-page PDF, on a page that's like 1000 inches long. Convert that PDF to Word.~~
+* ~~Refactor: main has duplicated code, and it's a little too long.~~
+* Automatically generate resume from cv.md. Heuristic: use the first sentence of each section in the CV as the one and only one sentence in the resume.
 * Tweak speaking sessions: highlight freshness. First date should be most recent presentation. "Also at" dates should be reverse-chronological order.
-* Refactor: main has duplicated code, and it's a little too long.
 * Add private keynotes & sessions.
 * Generalize it as a web app?
