@@ -1,26 +1,25 @@
-# Richard Kasperowski
+# Richard Kasperowski -- Résumé
+For full details, see [my complete CV](https://kasperowski.com/cv/).
 
 ## Teaching and Training
 ### Instructor -- Harvard University -- 2015-present
-I created and teach the course [CSCI E-71/S-71 Agile Software Development](https://agilesoftwarecourse.org). The purpose of the course is to make sure all CS graduates have real-world skills to build and deliver great software products that people love. In the most recent semester (Fall 2021), students rated the course 4.8 out of 5.0, significantly higher than the mean course review. I hire and manage my own teaching assistants.
+[CSCI E-71/S-71 Agile Software Development](https://agilesoftwarecourse.org): author and instructor. Most recent student evaluation: 4.8/5.0, significantly higher than average.
 
 ### Instructor -- Boston University -- 2018-present
-I serve as the team lead for software engineering, agile software development, and high-performance teams. My teaching topics include team building, interpersonal dynamics, agile software development, and technical skills.
+[Spark! fellowship](https://bu.edu/spark): co-author, co-instructor, team lead for software engineering, agile software development, and high-performance teams.
 
-### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | Certified Agile Team Building -- 2013-present
-I created and teach the Certified Agile Team Building&trade; program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams. I publish a blog, and I am developing an interactive e-book/ self-paced online course on the same topic. Through the nearly 80 episodes of my podcast, With Great People: The Podcast for High-Performance Teams, I interview thought leaders in agility and team performance to share their knowledge with the world. 
-My industry classes include Agile Technical Skills, Advanced Agile Technical Skills, High-Performance Team Building&trade;, Agile & Scrum Foundations, and Agile Product Owner Skills.
-
-For more information, see [my full CV](https://kasperowski.com/cv/).
+### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | Certified Agile Team Building](https://kasperowski.com) -- 2013-present
+* [Certified Agile Team Building&trade; program](https://kasperowski.com/training/): author and instructor. Topics: Agile Technical Skills, Advanced Agile Technical Skills, High-Performance Team Building&trade;, Agile & Scrum Foundations, and Agile Product Owner Skills
+* Executive and team coach, [keynote speaker](https://kasperowski.com/keynotes/), author, [podcast](https://kasperowski.com/podcast) creator and host
 
 ### Instructor -- LinkedIn Learning -- 2018-present
-I created two popular self-paced courses, Extreme Programming and Refactoring. These courses share the elements of technical agility, such as test-driven development, continuous integration, measuring code coverage and code quality, and more, using Java as the learning language.
+Author and instructor: [Extreme Programming](https://kasperowski.com/agile-software-development-extreme-programming/) and [Refactoring for Great Code](https://kasperowski.com/agile-software-development-refactoring/)
 
 ### Lead Mentor, Organizer -- Charles River CoderDojo -- 2014-present
-We teach kids ages 8-15 how to write code. I focus on helping girls and kids of color learning and succeeding as budding programmers. I use Harvard's CS-50 Introduction to Computer Science open-source curriculum to introduce kids to the foundations of computer science and application development. In my sessions, kids learn the techniques of pair- and mob-programming and test-driven development in programming languages including Python, Java, C, C++, Ruby, and Scratch.
+Lead mentor and co-organizer
 
 ### Teaching Assistant -- Harvard University -- 1997-2000
-I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly section groups, reinforcing important class topics.
+CSCI E-124 Data Structures and Algorithms
 
 ## Education
 ### Harvard University -- HES
@@ -34,65 +33,54 @@ Professional certifications: Certified Scrum Master (2009), Certified Scrum Prof
 (See description above.)
 
 ### Agile Coach/Manager, Senior Software Engineering Manager -- Nokia -- 2010-2013
-I coached teams on Agile software development, and I led the software dev team for Nokia Account, one of the world's largest social identity systems. 
-
-I was an Agile coach/manager. As a manager, I had formal responsibility and authority. I had skin in the game, so I had strong motivation to lead my team to success. But I wasn't a traditional manager, a dictator using command-and-control to coerce and intimidate. I managed in the style of a coach, creating physical, mental, and emotional space within which my team succeeded, guiding them and giving them the skills they needed to win. I did this using Agile principles and practices. I used Agile not because it's in fashion, but because when it's used rigorously, teams can't help but succeed. 
-
-I coached Agile software teams around the world, and I was the founder and leader of Nokia's Boston-area Agile community. I contributed to the larger Agile community in the United States and elsewhere.
+Managed and coached teams building Nokia's consumer identity management system for 100millions users
 
 ### Director of Solutions and Services, Manager of Engineering Program Management -- Nellymoser -- 2006-2010
-We built remarkable mobile applications, with a focus on video and music services, for companies like CBS Sports, Audible, AT&T, Virgin Mobile, and Viacom. I worked directly with our customers to make sure we mutually understood and met their goals. I ran the engineering team that built these customized mobile apps, using Scrum and other Agile practices to lead our projects and continually improve our capabilities. I also ran the IT and Operations group, making sure our hosted services stayed up and running. Our apps ran on a wide variety of mobile phones, and we used technologies like Java ME/SE/EE, BREW, WAP, MySQL, and Linux.
+Managed digital product development teams, wrote code for our bespoke full-stack mobile app's, did product management, was liason with customers
 
 ### Software Team Lead, Principal Software Engineer, Sales Engineer -- CentrePath -- 2003-2006
-We built Magellan DataPath Manager, a network management application focused on storage and long-haul optical networks, using SNMP, TL1, command line interfaces, and proprietary APIs to monitor the network hardware. I led the software team, mentoring and managing the other software developers while making my own individual contributions to the tool's design and implementation. I also worked as a sales engineer, demoing the product to prospects and customers and at trade shows. I made frequent site visits to help sell, install, and configure our application. I gave technical presentations to prospective customers, OEMs, and development partners, and I was the technical person of choice for presentations to potential acquirers, with audiences that ranged from individual contributors to senior VPs of Fortune 500 companies. We built the product using Java SE 5.0, C++, JESS, and Oracle.
+Software developer and sales engineer, building a network management tool
 
 ### Consultant, Founder -- Altisimo Computing -- 1997-2004
-I worked as a consultant and contractor, helping numerous organizations achieve their technology goals. In 2003 and 2004, we refocused on mobile apps. We wrote how to articles for publication, developed a Java ME training course, and presented at conferences, user groups, and training classes. We founded Boston Mobile, the Boston-area community of mobile software developers. 
-
-For more information, see [my full CV](https://kasperowski.com/cv/).
+Founder and consultant
 
 ### CTO, Cofounder -- MobiLingua -- 2004
-I designed and built prototypes for an English language learning mobile application. We developed a novel implementation of concatenative speech synthesis in Java ME on Nokia S60, our initial platform.
+English-language-learning mobile application
 
 ### Senior Software Engineer, Quality Assurance Manager -- Knowledge Technologies International (formerly ICAD, acquired by Oracle and Dassault Systemes) -- 1992-1997
-We built a rules-based programming language and platform to automate mechanical engineering design. The company was founded from an MIT AI project.
+Software developer -- rules-based programming language and platform to automate mechanical engineering design
 
-### Quality Assurance engineer, Technical Customer Support Analyst -- InterSystems -- 1989-1992
-I found and fixed bugs in this object and relational database system in the M (MUMPS) programming language.
+### Quality Assurance Engineer, Technical Customer Support Analyst -- InterSystems -- 1989-1992
+Software testing and coding
 
-### Quality Assurance engineer -- Spinnaker Software (acquired by broderbund) -- 1988-1989
-I got my start in the software industry as a professional tester.
+### Quality Assurance Engineer -- Spinnaker Software (acquired by broderbund) -- 1988-1989
+Software testing
 
 ## Consulting and Product Development
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
 (See description above.)
 
-### Creator -- PianoPlay.app -- 2021-present
-I created [PianoPlay.app](https://PianoPlay.app/) to help everyone become the pianist they've always wanted to be. PianoPlay.app uses the pedagogical theory of spaced repetition to help aspiring pianists train themselves to higher levels of musicianship. I implemented PianoPlay.app using Python, Flask, Bootstrap, and S3.
+### Creator -- [PianoPlay.app](https://pianoplay.app) -- 2021-present
+Founder and software developer
 
-### Creator -- VaccinateAll.org -- 2021-present
-[VaccinateAll.org](https://VaccinateAll.org) is a website and social media presence that encourages English and Spanish speakers around the world to vaccinate themselves and their loved ones against Covid. It spreads positive messages to fight against rampant mis- and disinformation. Future iterations of VaccinateAll will generalize the message to promote vaccinations against other preventable infirmities. I publish in Spanish to ensure that the large non-English-speaking community of Spanish speakers receives all the information they need to make informed decisions to vaccinate themselves.
+### Creator -- [VaccinateAll.org](https://vaccinateall.org) -- 2021-present
+Founder, software developer, content creator, and social media manager
 
-### Creator -- cv-creator -- 2022-present
-I created the open source project [cv-creator](https://github.com/rkasper/cv-creator) to make it easy to maintain exactly one version of your curriculum vitae. Write your CV in Markdown, and cv-creator generates a great looking CV in HTML and PDF. The implementation is in Python and CSS. This CV was generated by cv-creator.
+### Creator -- [cv-creator](https://github.com/rkasper/cv-creator) -- 2022-present
+Creator, software developer
 
 ### Creator -- SpeakSpanish -- 2021-present
-SpeakSpanish is the missing link in foreign language acquisition applications. Its sole purpose is to teach you to speak the language, to pronounce words and phrases correctly. It is designed to be a plug-in component in language acquisition platforms that lack speaking and pronunciation practice (which is almost all of them). Implemented using Python, Flask, and Google Cloud text-to-speech.
+Software developer -- Spanish speech recognition application
 
 ### Consultant, Founder -- Altisimo Computing -- 1997-2004
 (See description above.)
 
 ## Investing and Innovation
 ### Angel Investor -- 2021-present
-I focus on health-related start-ups and underrepresented founders. My goal is to assist founders on teaming skills, product development agility, and technical implementation, so we can enjoy amazingly successful exits together. My current portfolio includes:
-
-* [Simplifed](https://simplifed.us): female founder, lactation counseling and products for new mothers and their babies
-* [Moolah Kicks](https://moolahkicks.com): female/LGBTQ+ founder, the first producer of basketball shoes made by women specifically for women
-* [Five.me](https://five.me): ask an expert anything, anytime -- like WhatsApp for MasterClass
-* Apex Noire: Black founders, hiring for social justice; cannabis retailer and lounge
+Investments focused on women and POC founders
 
 ### Mentor -- TechStars Boston -- 2015-2018
-I mentored founders at this accelerator for pre-seed-stage start-ups. My advice focused on agile software product development and high-performance team building skills.
+Focused on agile software product development and high-performance team building skills
 
 ### CTO, Co-Founder -- MobiLingua -- 2004
 (See description above.)
@@ -103,35 +91,32 @@ In my community work, I share my skills and resources to help people have more j
 ### Creator -- VaccinateAll.org -- 2021-present
 (See description above.)
 
-### Cofounder -- Greatness Guild -- 2015-present
-We wrote the Greatness Manifesto and founded Greatness Guild to help everyone in the world achieve their highest potential.
-Version 2 of Greatness Guild will be a registered non-profit aimed at connecting urban young people with great jobs and great health. We plan to run coding dojos to teach programming skills, hosted at the offices of Boston-area tech companies; not only will the kids learn coding skills for well paying jobs, but they'll be connected with the hiring managers in the local tech scene. In addition, we will run a martial arts dojo to help them with physical and mental health.
+### Cofounder -- [Greatness Guild](https://greatnessguild.org) -- 2015-present
+Founder and coauthor of the Greatness Manifesto
 
-### Founding Advisor -- Agile Arizona annual conference -- 2016-present
-I advised the founders of Agile Arizona on overall conference management, including the importance of insuring diversity, equity, and inclusion in the speaker roster.
+### Founding Advisor -- [Agile Arizona conference](https://agilearizona.org) -- 2016-present
+Advisor to conference founder and chief organizer
 
 ### Lender -- Kiva -- 2015-present
-I make micro-loans to women in developing countries. As of 2022, I have made 17 loans focusing on issues like food availability and security, potable water, family health, sanitation, education, childbirth and other medical services, entrepreneurship and financial independence, Covid mitigation. I don't care whether borrowers repay me -- the point is to help loan recipients have better lives.
+Micro-loans to women in developing countries
 
 ### Lead Mentor, Organizer -- Charles River CoderDojo -- 2014-present
 (See description above.)
 
-### President, board member, conference organizer, volunteer -- Agile New England -- 2011-2021
-As president and event organizer, I made sure our roster of speakers was at least 50% women. I mentored first-time speakers to help them feel comfortable on stage as they shared amazingly engaging sessions.
+### President, board member, conference organizer, volunteer -- [Agile New England](https://agilenewengland.org) -- 2011-2021
+President, conference organizer, speaker recruiting
 
 ### Donor -- Black Girls Code - 2020
-I was a leader of the Agile NYC community open space conference day. We donated 100% of  proceeds to Black Girls Code, a non-profit that provides programming classes for young Black women.
+Donor
 
-### Founder, Chief Organizer -- Epic Agile Party -- 2017-2020
-I organize and pay for this annual party for members of the Agile community. We plan to restart the annual event post-Covid.
+### Founder, Chief Organizer -- Epic Agile Party -- 2017-present
+Annual evert for members of the Agile community
 
 ### "Judge" -- TechTogether -- 2019-2020
-TechTogether is a hackathon focused on budding software developers who are women and non-binary. As a "judge," I simply ask for a demo of teams' work and then give them encouragement and fresh ideas.
+Give encouragement and feedback to teams women and non-binary people
 
 ### Founding Advisor -- Greater Boston Coding Dojo (merged into Boston Software Crafters) -- 2017
-I advised the founder of this monthly meet-up on overall meet-up management and how to run educational coding dojos.
-
-For more information, see [my full CV](https://kasperowski.com/cv/).
+Advisor to meet-up founder
 
 ## Recent Publications
 
@@ -146,8 +131,6 @@ For more information, see [my full CV](https://kasperowski.com/cv/).
 * [*The Core Protocols: A Guide to Greatness*](https://kasperowski.com/the-core-protocols/), With Great People Publications, 2015.
 * "Building a Connected MIDlet, part 2," with Alex Bourgeois, Java Developers' Journal, March 2004.
 
-For more information, see [my full CV](https://kasperowski.com/cv/).
-
 ## Recent Presentations
 
 * Keynotes (all invited)
@@ -155,18 +138,16 @@ For more information, see [my full CV](https://kasperowski.com/cv/).
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances). Also at Scrum.org, 2022 (invited); The Job Hackers Agile Meetup, 2022 (invited); Enterprise Agile Global Community, 2022 (invited); Agile Coaching DC, 2021; Hands-On Agile, 2021; Agile+DevOps, 2020; Lean Agile Delivery & Coaching Network, 2020; Heart of England Scrum User Group, 2020; Agile London, 2020; Zoho meetup, 2020; Team Building in the Virtual World, 2020; Agile Coaching Group, 2020; Scrum Alliance webinar, 2020; Venture Cafe, 2020; XP2020; Agile Virtual Summit, 2020; Business Analyst Innovation Day, 2020; Agile RI, 2020; Agile Sales & Marketing Summit, 2019; Venture Cafe, 2019; IIL Agile & Scrum Online Conference, 2019; Management 3.0, 2019; AgileCamp San Francisco, 2018; Remote Forever Summit, 2018; AgileCamp Dallas, 2018; Boston Facilitators Roundtable, 2018; North Carolina Project Management Institute, 2018; Agile Maine Day, 2018; Professional Development Conference Hampton Roads, 2018; Metaphorum, 2018; Agile Practitioners Online, 2017; Remote Forever Summit, 2017; Agile Arizona, 2017; Agile RTP, 2017; Greatness Guild Conference, 2017; Agile Lean Europe, 2017; Agile 2017 conference; Craft, 2017; StretchCon Meetup, 2017; Agile Hartford, 2017; Kendall Square Agilists, 2017.
+    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances).
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
     * Course Creation Canvas -- Miro, 2022 (invited).
     * Test-Driven Development: How to Get Started with the Foundations of Technical Agility -- Excellence In Agile conference, 2021 (invited).
-    * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2021 (invited). Also at Scrum Masters of the Universe, 2022; Agile RI, 2021; Agile Arizona, 2021; Agile Austin, 2021; Comparative Agility Meetup, 2021; Craft 2021; Agile Hartford, 2020; Agile RTP, 2020; Venture Cafe, 2020; Agile Games Summit, 2020; AgileCamp SF, 2019; Agile Arizona, 2019.
-    * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited). Also at Agile & Scrum 2021; TestingConf, 2020; Ministry of Testing Boston, 2020.
+    * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2021 (invited).
+    * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited).
     * Lean Coffee to Build Stronger Teams -- Miro, 2021 (invited).
     * Agile Product Owner Skills: How to Build the Right Thing -- Project Management Institute Minnesota Professional Development Day, 2021 (invited).
-    * Product Inception Canvas: How to Build the Right Thing -- Agile 2021. Also at BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
-    * Teaching Agile (Or Anything Else) So It Sticks -- Agile 2021 Minimum Viable Conference, 2021. Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019.
-
-For more information, see [my full CV](https://kasperowski.com/cv/).
+    * Product Inception Canvas: How to Build the Right Thing -- Agile 2021. Also at BAIstanbul, 2020 (invited).
+    * Teaching Agile (Or Anything Else) So It Sticks -- Agile 2021 Minimum Viable Conference, 2021.
 
 ## Awards
 
@@ -177,4 +158,4 @@ For more information, see [my full CV](https://kasperowski.com/cv/).
 ## Languages
 
 * English -- native
-* Spanish -- advanced C1 -- to help connect with people in non-English-speaking communities
+* Spanish -- advanced C1
