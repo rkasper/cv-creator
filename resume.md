@@ -138,7 +138,8 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * Product Inception Canvas: How to Build the Right Thing -- Agile & Beyond 2022. Also at Agile 2021; BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
+    * Search and Rescue: Rescuing Your Team So the People Who Show Up Can Be the Best Team Ever -- Scrum Gathering 2022.
+    * Product Inception Canvas: How to Build the Right Thing -- Scrum Gathering 2022. Also at Agile & Beyond 2022; Agile 2021; BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances).
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
     * Course Creation Canvas -- Miro, 2022 (invited).
@@ -147,7 +148,6 @@ Advisor to meet-up founder
     * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited).
     * Lean Coffee to Build Stronger Teams -- Miro, 2021 (invited).
     * Agile Product Owner Skills: How to Build the Right Thing -- Project Management Institute Minnesota Professional Development Day, 2021 (invited).
-    * Teaching Agile (Or Anything Else) So It Sticks -- Agile 2021 Minimum Viable Conference, 2021.
 
 ## Awards
 
