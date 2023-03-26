@@ -27,7 +27,7 @@ DEFAULT_DOCX_FILE = 'cv.docx'
 def generate_simple_html(markdown_file):
     with open(markdown_file, 'r') as f:
         text = f.read()
-        simple_html = markdown.markdown(text, extensions=['smarty'])
+        simple_html = markdown.markdown(text, extensions=['markdown.extensions.smarty'])
     return simple_html
 
 

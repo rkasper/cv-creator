@@ -232,6 +232,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Teaching Agile (Or Anything Else) So It Sticks -- Citizens internal keynote, 2022 (invited). Also at Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019.
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
     * Search and Rescue: Rescuing Your Team So the People Who Show Up Can Be the Best Team Ever -- Scrum Gathering 2022.
     * Product Inception Canvas: How to Build the Right Thing -- Scrum Gathering 2022. Also at Agile & Beyond 2022; Agile 2021; BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
@@ -242,7 +243,6 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited). Also at Agile & Scrum 2021; TestingConf, 2020; Ministry of Testing Boston, 2020.
     * Lean Coffee to Build Stronger Teams -- Miro, 2021 (invited).
     * Agile Product Owner Skills: How to Build the Right Thing -- Project Management Institute Minnesota Professional Development Day, 2021 (invited).
-    * Teaching Agile (Or Anything Else) So It Sticks -- Agile 2021 Minimum Viable Conference, 2021. Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019.
     * Panelist -- WEtalk Wicked Problems, 2020 (invited).
     * Ask Me Anything -- Agile Arizona, 2020 (invited).
     * Panelist: Science of Remote Work -- Venture Cafe Cambridge, 2020 (invited).
