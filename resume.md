@@ -158,4 +158,4 @@ Advisor to meet-up founder
 ## Languages
 
 * English -- native
-* Spanish -- advanced C1
+* Spanish -- C2

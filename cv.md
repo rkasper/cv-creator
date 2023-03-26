@@ -302,4 +302,4 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 ## Languages
 
 * English -- native
-* Spanish -- advanced C1 -- to help connect with people in non-English-speaking communities
+* Spanish -- C2 -- to help connect with people in non-English-speaking communities
