@@ -134,11 +134,12 @@ Advisor to meet-up founder
 ## Recent Presentations
 
 * Keynotes (all invited)
-    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Bosnia Agile Week, 2021. Also keynote at Project Management Institute, New York City, 2018.
+    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Enexis internal keynote, 2023. Also keynote at Bosnia Agile Week, 2021; Project Management Institute, New York City, 2018.
+    * Teaching Agile (Or Anything Else) So It Sticks -- Citizens internal keynote, 2022.
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Citizens internal keynote, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
+    * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
     * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2023 and 2021 (invited).
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
     * Search and Rescue: Rescuing Your Team So the People Who Show Up Can Be the Best Team Ever -- Scrum Gathering 2022.
