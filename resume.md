@@ -29,6 +29,9 @@ BLA *cum laude*, field of study Computer Science, 1996
 Professional certifications: Certified Scrum Master (2009), Certified Scrum Professional - Scrum Master (2010), Certified Scrum Professional - Product Owner (2010), Certified Scrum Product Owner (2016), Certified Agile Leadership (2017), Scrum Foundations Educator (2021)
 
 ## Corporate Experience
+### Co-founder and CTO -- [Alli Connect](https://alliconnect.io/) -- 2022-present
+As the Co-founder and Chief Technology Officer (CTO) of Alli Connect, I spearhead the technological vision of the company, leading a talented team of engineers and developers to create innovative solutions for seamless connectivity.
+
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | Certified Agile Team Building -- 2013-present
 (See description above.)
 

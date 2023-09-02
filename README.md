@@ -18,11 +18,15 @@ Finally, we use [pdf2docx](https://pypi.org/project/pdf2docx/) to convert the PD
 
 ## How to use it?
 
+1. Set up your dev environment.
+   2. Install Python 3.11. 
+   3. Install packages. 
+   4. Install weasyprint: `brew install weasyprint`.
 1. Create your CV in Markdown as `cv.md`.
 1. Create your resume in Markdown as `resume.md`.
-2. Adjust the CSS files.
-3. Run the script: `./generate-cv-and-resume.sh`
-4. Enjoy the generated output files, `cv.html`, `cv.pdf`, `cv.docx`, `resume.html`, `resume.pdf`, and `resume.docx`. (You might want to manually add some footers or other formatting to the generated Word file.)
+1. Adjust the CSS files.
+1. Run the script: `./generate-cv-and-resume.sh`
+1. Enjoy the generated output files, `cv.html`, `cv.pdf`, `cv.docx`, `resume.html`, `resume.pdf`, and `resume.docx`. (You might want to manually add some footers or other formatting to the generated Word file.)
 
 ## Credit
 [Richard Kasperowski](https://kasperowski.com) created this. I was inpired by, and got started by forking, [Romain Ginestou](https://github.com/rginestou) 's [MarkReport](https://github.com/rginestou/MarkReport). Thanks, Romain!

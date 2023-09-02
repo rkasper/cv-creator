@@ -11,6 +11,9 @@ BLA *cum laude*, field of study Computer Science, 1996
 Professional certifications: Certified Scrum Master (2009), Certified Scrum Professional - Scrum Master (2010), Certified Scrum Professional - Product Owner (2010), Certified Scrum Product Owner (2016), Certified Agile Leadership (2017), Scrum Foundations Educator (2021)
 
 ## Industy Experience
+### Co-founder and CTO -- [Alli Connect](https://alliconnect.io/) -- 2022-present
+As the Co-founder and Chief Technology Officer (CTO) of Alli Connect, I spearhead the technological vision of the company, leading a talented team of engineers and developers to create innovative solutions for seamless connectivity. My role encompasses strategic decision-making, overseeing R&D, and ensuring the scalability and security of our platforms. Under my leadership, the company has achieved significant milestones, including securing seed funding and the public release of our product.
+
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | Certified Agile Team Building](https://kasperowski.com) -- 2013-present
 I created and teach the Certified Agile Team Building&trade; program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams. I publish a blog, and I am developing an interactive e-book/ self-paced online course on the same topic. Through the nearly 80 episodes of my podcast, With Great People: The Podcast for High-Performance Teams, I interview thought leaders in agility and team performance to share their knowledge with the world. 
 My industry classes include:
@@ -92,9 +95,6 @@ SpeakSpanish is the missing link in foreign language acquisition applications. I
 (See description above.)
 
 ## Investing and Innovation
-### Advisor -- Kino -- 2022-present
-[Kino](https://kino.live) is the next Generation video chat platform. It makes video meetings and events feel more like we are together in physical space. I identify investors and help raise capital. I identify and invite new users to join the platform, focusing on conference organizers and teaching and learning environments.
-
 ### Angel Investor -- 2021-present
 I focus on health-related start-ups and underrepresented founders. My goal is to assist founders on teaming skills, product development agility, and technical implementation, so we can enjoy amazingly successful exits together. My current portfolio includes:
 
