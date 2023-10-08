@@ -142,6 +142,7 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
     * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2023 and 2021 (invited).
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.

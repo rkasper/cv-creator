@@ -233,6 +233,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited). Also at Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019.
     * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2023 (invited). Also at Agile India, 2021 (invited); Scrum Masters of the Universe, 2022; Agile RI, 2021; Agile Arizona, 2021; Agile Austin, 2021; Comparative Agility Meetup, 2021; Craft 2021; Agile Hartford, 2020; Agile RTP, 2020; Venture Cafe, 2020; Agile Games Summit, 2020; AgileCamp SF, 2019; Agile Arizona, 2019.
     * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
