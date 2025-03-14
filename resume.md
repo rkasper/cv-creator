@@ -142,6 +142,7 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
     * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
     * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2023 and 2021 (invited).
@@ -150,10 +151,6 @@ Advisor to meet-up founder
     * Product Inception Canvas: How to Build the Right Thing -- Scrum Gathering 2022. Also at Agile & Beyond 2022; Agile 2021; BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances).
     * Course Creation Canvas -- Miro, 2022 (invited).
-    * Test-Driven Development: How to Get Started with the Foundations of Technical Agility -- Excellence In Agile conference, 2021 (invited).
-    * Test-Driven Development: A Stunningly Quick Introduction for Everyone -- Agile Arizona, 2021 (invited).
-    * Lean Coffee to Build Stronger Teams -- Miro, 2021 (invited).
-    * Agile Product Owner Skills: How to Build the Right Thing -- Project Management Institute Minnesota Professional Development Day, 2021 (invited).
 
 ## Awards
 
