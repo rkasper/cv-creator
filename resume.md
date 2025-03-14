@@ -142,11 +142,12 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
     * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
     * Team Transformation Canvas: Team Building Starts With You -- Agile India, 2023 and 2021 (invited).
-    * Agile Dojo -- the monthly meet-up I host, where participants learn skills and activities to bring agility to their organizations, 2015-present.
+    * Agile Dojo -- the monthly meet-up I hosted, where participants learned skills and activities to bring agility to their organizations, 2015-2022.
     * Search and Rescue: Rescuing Your Team So the People Who Show Up Can Be the Best Team Ever -- Scrum Gathering 2022.
     * Product Inception Canvas: How to Build the Right Thing -- Scrum Gathering 2022. Also at Agile & Beyond 2022; Agile 2021; BAIstanbul, 2020 (invited); Agile Arizona, 2020 (invited); TriAgile 2022.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances).
