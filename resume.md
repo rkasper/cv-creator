@@ -142,6 +142,7 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
     * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
