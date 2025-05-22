@@ -123,9 +123,9 @@ Advisor to meet-up founder
 
 ## Recent Publications
 
-* *High-Performance Team Building*, interactive e-book/ self-paced online course, to be published in 2022.
+* [Frecuencias diferentes](https://santosblackwood.com), as Santos Blackwood, 2025.
 * [Manifesto for Online Collaboration](https://onlinecollaborationmanifesto.com), with Matt Barnaby, Barb Bickford, et al, 2022.
-* [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 81 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
+* [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 92 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
 * [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 107 articles on team building, innovation, creativity, and agile software development, 2008-2022.
 * [*High-Performance Teams: The Foundations*](https://kasperowski.com/high-performance-teams-the-foundations/), C4Media, 2019.
 * ["High-Performance Team Behaviors" measurement instrument](https://kasperowski.com/diagnostic/), Comparative Agility, 2018.
@@ -142,8 +142,9 @@ Advisor to meet-up founder
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025
-    * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present
+    * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
+    * 6 Strings In My Head, 88 Keys In My Hands -- Music & Tech Fusion Boston, 2025.
+    * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025.
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
     * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
     * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
