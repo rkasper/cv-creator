@@ -2,11 +2,11 @@
 For full details, see [my complete CV](https://kasperowski.com/cv/).
 
 ## Teaching and Training
-### Instructor -- Harvard University -- 2015-present
+### Instructor -- Harvard University -- 2015-2024
 [CSCI E-71/S-71 Agile Software Development](https://agilesoftwarecourse.org): author and instructor. Most recent student evaluation: 4.8/5.0, significantly higher than average.
 
-### Instructor -- Boston University -- 2018-present
-[Spark! fellowship](https://bu.edu/spark): co-author, co-instructor, team lead for software engineering, agile software development, and high-performance teams.
+### Founding Instructor and Mentor -- Boston University -- 2018-2021, 2025
+[Spark! fellowship](https://bu.edu/spark): founding instructor recruited to develop original curriculum; team lead for software engineering, agile software development, and high-performance teams (2018-2021); mentor (2025).
 
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | Certified Agile Team Building](https://kasperowski.com) -- 2013-present
 * [Certified Agile Team Building&trade; program](https://kasperowski.com/training/): author and instructor. Topics: Agile Technical Skills, Advanced Agile Technical Skills, High-Performance Team Building&trade;, Agile & Scrum Foundations, and Agile Product Owner Skills
@@ -29,8 +29,8 @@ BLA *cum laude*, field of study Computer Science, 1996
 Professional certifications: Certified Scrum Master (2009), Certified Scrum Professional - Scrum Master (2010), Certified Scrum Professional - Product Owner (2010), Certified Scrum Product Owner (2016), Certified Agile Leadership (2017), Scrum Foundations Educator (2021)
 
 ## Corporate Experience
-### Co-founder and CTO -- [Alli Connect](https://alliconnect.io/) -- 2022-present
-As the Co-founder and Chief Technology Officer (CTO) of Alli Connect, I spearhead the technological vision of the company, leading a talented team of engineers and developers to create innovative solutions for seamless connectivity.
+### Co-founder and CTO -- [Alli Connect](https://alliconnect.com/) (Techstars '22) -- 2022-present
+Lead technical vision for predictive mental wellness platform serving 30+ fire and police departments with 770+ monthly active users. Responsibilities include product ownership, architecture, development, and operations. Built privacy-first platform with React Native, Micronaut, PostgreSQL, and AI-powered features. Achieved 88% therapist matching success rate and HIPAA-grade security certification.
 
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | Certified Agile Team Building -- 2013-present
 (See description above.)
@@ -63,8 +63,8 @@ Software testing
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
 (See description above.)
 
-### Creator -- [PianoPlay.app](https://pianoplay.app) -- 2021-present
-Founder and software developer
+### Creator -- [Awesome Lab](https://awesomelab.org) -- 2021-present
+Technical experimentation playground built as a Deno TypeScript monorepo on DigitalOcean. Projects include PianoPlay.app (spaced repetition for piano), SonicSlam (generative AI music), VitalityBlast (health data visualization), SMS Blast (Twilio marketing), and Team Safety Scanner (psychological safety measurement).
 
 ### Creator -- [VaccinateAll.org](https://vaccinateall.org) -- 2021-present
 Founder, software developer, content creator, and social media manager
@@ -88,39 +88,6 @@ Focused on agile software product development and high-performance team building
 ### CTO, Co-Founder -- MobiLingua -- 2004
 (See description above.)
 
-## Community Building and Participation
-In my community work, I share my skills and resources to help people have more joyful lives. Much of my community work focuses on children, women, and people of color.
-
-### Creator -- VaccinateAll.org -- 2021-present
-(See description above.)
-
-### Cofounder -- [Greatness Guild](https://greatnessguild.org) -- 2015-present
-Founder and coauthor of the Greatness Manifesto
-
-### Founding Advisor -- [Agile Arizona conference](https://agilearizona.org) -- 2016-present
-Advisor to conference founder and chief organizer
-
-### Lender -- Kiva -- 2015-present
-Micro-loans to women in developing countries
-
-### Lead Mentor, Organizer -- Charles River CoderDojo -- 2014-present
-(See description above.)
-
-### President, board member, conference organizer, volunteer -- [Agile New England](https://agilenewengland.org) -- 2011-2021
-President, conference organizer, speaker recruiting
-
-### Donor -- Black Girls Code - 2020
-Donor
-
-### Founder, Chief Organizer -- Epic Agile Party -- 2017-present
-Annual evert for members of the Agile community
-
-### "Judge" -- TechTogether -- 2019-2020
-Give encouragement and feedback to teams women and non-binary people
-
-### Founding Advisor -- Greater Boston Coding Dojo (merged into Boston Software Crafters) -- 2017
-Advisor to meet-up founder
-
 ## Recent Publications
 
 * [Frecuencias diferentes](https://santosblackwood.com), as Santos Blackwood, 2025.
@@ -137,12 +104,15 @@ Advisor to meet-up founder
 ## Recent Presentations
 
 * Keynotes (all invited)
+    * Agile Doesn't Matter (And It Never Did): What Actually Builds Great Products -- Lean and Agile Middle East Summit, 2026.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Communauto internal keynote, 2023. Also keynote at Enexis internal keynote, 2023; Bosnia Agile Week, 2021; Project Management Institute, New York City, 2018.
     * Teaching Agile (Or Anything Else) So It Sticks -- Citizens internal keynote, 2022.
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
+    * VibeCoding with Replit -- BU Spark! DS+X Hackathon, 2025 (invited).
+    * Technology and Officer Wellness: Leveraging AI for Early Detection -- IACP, Denver, 2025 (invited).
     * 6 Strings In My Head, 88 Keys In My Hands -- Music & Tech Fusion Boston, 2025.
     * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025.
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
@@ -164,4 +134,4 @@ Advisor to meet-up founder
 ## Languages
 
 * English -- native
-* Spanish -- C2
+* Spanish -- C2 -- to connect with people in non-English-speaking communities

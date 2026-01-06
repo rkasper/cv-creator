@@ -1,7 +1,7 @@
 # Richard Kasperowski
 
 ## Profile
-Richard Kasperowski is a serial product developer, innovator, teacher, speaker, author, and coach focused on team building, high-performance teams, Agile software development, and digital product development. He is the author of two books, *[High-Performance Teams: The Foundations](https://kasperowski.com/high-performance-teams-the-foundations/)* and *[The Core Protocols: A Guide to Greatness](https://kasperowski.com/the-core-protocols/)*. He leads students and clients in building great teams that get great results using [the Core Protocols](https://thecoreprotocols.org/), [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology). Richard created and teaches the course [Agile Software Development](https://www.agilesoftwarecourse.org/) at Harvard University, and he co-teaches the [Spark!](https://www.bu.edu/spark/) fellowship at Boston University.</p>
+Richard Kasperowski is a serial product developer, innovator, teacher, speaker, author, and coach focused on team building, high-performance teams, Agile software development, and digital product development. He is the author of two books, *[High-Performance Teams: The Foundations](https://kasperowski.com/high-performance-teams-the-foundations/)* and *[The Core Protocols: A Guide to Greatness](https://kasperowski.com/the-core-protocols/)*. He leads students and clients in building great teams that get great results using [the Core Protocols](https://thecoreprotocols.org/), [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology). Richard created and taught the course [Agile Software Development](https://www.agilesoftwarecourse.org/) at Harvard University (2015-2024), and he has taught and mentored in the [Spark!](https://www.bu.edu/spark/) fellowship at Boston University.
 
 ## Education
 ### Harvard University -- HES
@@ -10,9 +10,18 @@ BLA *cum laude*, field of study Computer Science, 1996
 ### Scrum Alliance
 Professional certifications: Certified Scrum Master (2009), Certified Scrum Professional - Scrum Master (2010), Certified Scrum Professional - Product Owner (2010), Certified Scrum Product Owner (2016), Certified Agile Leadership (2017), Scrum Foundations Educator (2021)
 
-## Industy Experience
-### Co-founder and CTO -- [Alli Connect](https://alliconnect.io/) -- 2022-present
-As the Co-founder and Chief Technology Officer (CTO) of Alli Connect, I spearhead the technological vision of the company, leading a talented team of engineers and developers to create innovative solutions for seamless connectivity. My role encompasses strategic decision-making, overseeing R&D, and ensuring the scalability and security of our platforms. Under my leadership, the company has achieved significant milestones, including securing seed funding and the public release of our product.
+## Industry Experience
+### Co-founder and CTO -- [Alli Connect](https://alliconnect.com/) (Techstars '22) -- 2022-present
+As Co-founder and Chief Technology Officer of Alli Connect, I lead the technical vision and development of a predictive mental wellness platform serving first responders. The platform now serves 30+ fire and police departments with 770+ monthly active users, achieving an 88% therapist matching success rate and 70-85% adoption rates within 60 days of deployment.
+
+My responsibilities span product ownership, architecture, software development, technical operations, and support. I lead a team practicing high-agile development with 99% pair programming, 1-week sprints, and continuous delivery.
+
+Key technical accomplishments include:
+* Architected a privacy-first platform where individual wellness data never reaches command staff—only aggregated, anonymized department-level insights
+* Built the technology stack: React Native mobile apps with Expo, Micronaut backend services, PostgreSQL database, and Python microservices on DigitalOcean infrastructure
+* Implemented AI-powered features including therapist matching algorithms and wellness insights generation
+* Achieved HIPAA-grade security certification through Sprinto, maintaining 99.99% uptime
+* Developed integrations with Qualtrics, Auth0, Twilio, and emerging Cumulative Exposure Monitoring features that analyze CAD system data for early intervention
 
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | Certified Agile Team Building](https://kasperowski.com) -- 2013-present
 I created and teach the Certified Agile Team Building&trade; program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams. I publish a blog, and I am developing an interactive e-book/ self-paced online course on the same topic. Through the nearly 80 episodes of my podcast, With Great People: The Podcast for High-Performance Teams, I interview thought leaders in agility and team performance to share their knowledge with the world. 
@@ -79,8 +88,17 @@ I got my start in the software industry as a professional tester.
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
 (See description above.)
 
-### Creator -- [PianoPlay.app](https://pianoplay.app) -- 2021-present
-I created [PianoPlay.app](https://PianoPlay.app/) to help everyone become the pianist they've always wanted to be. PianoPlay.app uses the pedagogical theory of spaced repetition to help aspiring pianists train themselves to higher levels of musicianship. I implemented PianoPlay.app using Python, Flask, Bootstrap, and S3.
+### Creator -- [Awesome Lab](https://awesomelab.org) -- 2021-present
+Awesome Lab is my technical experimentation playground where I explore emerging technologies, many of which feed directly into production work at Alli Connect. The entire platform is built as a Deno TypeScript monorepo, hosted on a single DigitalOcean App instance for lean, performant, low-cost operation. Projects include:
+
+* [PianoPlay.app](https://pianoplay.app): Spaced repetition system for piano skill development, built with Python, Flask, Bootstrap, and S3
+* [SonicSlam](https://sonicslam.awesomelab.org): Generative music using WebAudio API and generative AI music APIs for data sonification
+* [Data Beats](https://databeats.awesomelab.org): Data sonification experiments — transforming datasets into music
+* [VitalityBlast](https://vitalityblast.awesomelab.org): Health data visualization from JSON medical records
+* [SMS Blast](https://awesomelab.org): SMS marketing tool built with Twilio for my music project Sótano Épico
+* [Team Safety Scanner](https://kasperowski.com/diagnostic/): Psychological safety measurement instrument that analyzes organizational dynamics and recommends interventions
+* [SlideSmash](https://slidesmash.awesomelab.org): Karaoke-style presentation tool
+* [Preview Awesomizer](https://previewawesomizer.awesomelab.org): Audio preview generator
 
 ### Creator -- [VaccinateAll.org](https://vaccinateall.org) -- 2021-present
 [VaccinateAll.org](https://VaccinateAll.org) is a website and social media presence that encourages English and Spanish speakers around the world to vaccinate themselves and their loved ones against Covid. It spreads positive messages to fight against rampant mis- and disinformation. Future iterations of VaccinateAll will generalize the message to promote vaccinations against other preventable infirmities. I publish in Spanish to ensure that the large non-English-speaking community of Spanish speakers receives all the information they need to make informed decisions to vaccinate themselves.
@@ -153,10 +171,10 @@ I organized a monthly meet-up and consulted to everyone within the company who w
 At this monthly meet-up, we taught first-wave mobile software application developers their craft.
 
 ## Teaching and Training
-### Instructor -- Harvard University -- 2015-present
-I created and teach the course [CSCI E-71/S-71 Agile Software Development](https://agilesoftwarecourse.org). The purpose of the course is to make sure all CS graduates have real-world skills to build and deliver great software products that people love.
+### Instructor -- Harvard University -- 2015-2024
+I created and taught the course [CSCI E-71/S-71 Agile Software Development](https://agilesoftwarecourse.org). The purpose of the course is to make sure all CS graduates have real-world skills to build and deliver great software products that people love.
 
-Students love the course. In the most recent semester (Fall 2021), students rated the course 4.8 out of 5.0, significantly higher than the mean course review. Sample student reviews include:
+Students loved the course. In Fall 2024, students rated the course 4.8 out of 5.0, significantly higher than the mean course review. Sample student reviews include:
 
 * *This is one of the best hands-on courses to learn agile software development. You learn the theory and practice it in a safe environment. This is a "DO NOT MISS THIS" course.*
 * *This is a great class which includes very helpful, real life examples and talks about real strategies for implementing agile and tackling challenges associated with it. Richard is a great professor with immense knowledge. His style of teaching is wonderful. I loved the class structure. The breakout room activities really help us learn the agile concepts. The final project that we do was a great learning experience as we had to implement agile framework ground up and teaching staff helped us in our way. This is a must course for learning agile practices. A fun course as well.*
@@ -191,8 +209,8 @@ The course itself is an immersive experience in Agile software development. We s
 
 By the end of the course, students understand Agile software development so thoroughly that they can effectively lead or participate as a member of a great software product development team.
 
-### Instructor -- Boston University -- 2018-present
-I co-teach the Spark! fellowishp, where I serve as the team lead for software engineering, agile software development, and high-performance teams. My teaching topics include team building, interpersonal dynamics, agile software development, and technical skills.
+### Founding Instructor and Mentor -- Boston University -- 2018-2021, 2025
+I was recruited by Ziba Cranmer as a founding instructor of the Spark! fellowship, where I helped develop the original curriculum and served as team lead for software engineering, agile software development, and high-performance teams. My teaching topics included team building, interpersonal dynamics, agile software development, and technical skills. I returned as a mentor in 2025.
 
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
 (See description above.)
@@ -228,12 +246,15 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 ## Presentations
 
 * Keynotes (all invited)
+    * Agile Doesn't Matter (And It Never Did): What Actually Builds Great Products -- Lean and Agile Middle East Summit, 2026.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Communauto internal keynote, 2023. Also keynote at Enexis internal conference; 2023, Bosnia Agile Week, 2021; Project Management Institute, New York City, 2018.
     * Teaching Agile (Or Anything Else) So It Sticks -- Citizens internal keynote, 2022.
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
+    * VibeCoding with Replit -- BU Spark! DS+X Hackathon, 2025 (invited).
+    * Technology and Officer Wellness: Leveraging AI for Early Detection -- IACP (International Association of Chiefs of Police), Denver, 2025 (invited).
     * 6 Strings In My Head, 88 Keys In My Hands -- Music & Tech Fusion Boston, 2025.
     * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025.
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
@@ -308,4 +329,4 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 ## Languages
 
 * English -- native
-* Spanish -- C2 -- to help connect with people in non-English-speaking communities
+* Spanish -- C2 -- to connect with people in non-English-speaking communities
