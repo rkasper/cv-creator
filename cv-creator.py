@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
     # Generate the awesome looking outpu documents
     filename_root = filename = pathlib.Path(args.markdownfile).stem
-    simple_html = generate_simple_html(args.markdownfile)
-    generate_pdf(simple_html, args.output + '/' + filename_root + '.pdf')
-    generate_enhanced_html(simple_html, args.title, args.output + '/' + filename_root + '.html')
-    generate_word(simple_html, args.output + '/' + filename_root + '.docx')
+    html_content = generate_simple_html(args.markdownfile)
+    generate_pdf(html_content, args.output + '/' + filename_root + '.pdf')
+    generate_enhanced_html(html_content, args.title, args.output + '/' + filename_root + '.html')
+    generate_word(html_content, args.output + '/' + filename_root + '.docx')
