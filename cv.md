@@ -246,7 +246,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 ## Presentations
 
 * Keynotes (all invited)
-    * Agile Doesn't Matter (And It Never Did): What Actually Builds Great Products -- Lean and Agile Middle East Summit, 2026.
+    * Scrum Doesn't Matter (And It Never Did): What Actually Builds Great Products -- Global Scrum Gathering, 2026.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Communauto internal keynote, 2023. Also keynote at Enexis internal conference; 2023, Bosnia Agile Week, 2021; Project Management Institute, New York City, 2018.
     * Teaching Agile (Or Anything Else) So It Sticks -- Citizens internal keynote, 2022.
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
