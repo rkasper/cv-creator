@@ -110,6 +110,7 @@ Focused on agile software product development and high-performance team building
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
     * From Idea → Live App: Claude Code Mob Build (Global Coding Dojo) -- BU Spark! Civic Hacks Hackathon, 2026 (invited).
     * VibeCoding with Replit -- BU Spark! DS+X Hackathon, 2025 (invited).
