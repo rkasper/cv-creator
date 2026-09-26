@@ -252,8 +252,9 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
+    * The AI Money Pit: Unit Economics, Pricing, and Survival -- Startup Boston Week, 2026 (invited).
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
+    * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
     * From Idea → Live App: Claude Code Mob Build (Global Coding Dojo) -- BU Spark! Civic Hacks Hackathon, 2026 (invited).
     * VibeCoding with Replit -- BU Spark! DS+X Hackathon, 2025 (invited).
     * Technology and Officer Wellness: Leveraging AI for Early Detection -- IACP (International Association of Chiefs of Police), Denver, 2025 (invited).

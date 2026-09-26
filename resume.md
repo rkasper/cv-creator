@@ -110,8 +110,9 @@ Focused on agile software product development and high-performance team building
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
-    * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
+    * The AI Money Pit: Unit Economics, Pricing, and Survival -- Startup Boston Week, 2026 (invited).
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
+    * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
     * From Idea → Live App: Claude Code Mob Build (Global Coding Dojo) -- BU Spark! Civic Hacks Hackathon, 2026 (invited).
     * VibeCoding with Replit -- BU Spark! DS+X Hackathon, 2025 (invited).
     * Technology and Officer Wellness: Leveraging AI for Early Detection -- IACP, Denver, 2025 (invited).
@@ -119,7 +120,6 @@ Focused on agile software product development and high-performance team building
     * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025.
     * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
     * Liberando equipos de alto rendimiento -- ICF Colombia, 2023 (invited).
-    * Teaching Agile (Or Anything Else) So It Sticks -- Agile India, 2023 (invited); Agile Hartford, 2022 (invited); Agile 2021 Minimum Viable Conference, 2021 (invited); Also at Boston Area Women In Agile, 2020 (invited); Heart of England Scrum User Group, 2020 (invited); Venture Cafe, 2020 (invited);  AgileCamp SF, 2019; Agile New England, 2019. 
 
 ## Awards
 
