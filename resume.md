@@ -110,6 +110,7 @@ Focused on agile software product development and high-performance team building
     * High-Performance Teams in a Virtual World -- Toronto Agile Conference, 2020.
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Games, 2016.
 * Sessions
+    * Building the Product Isn't the Bottleneck Anymore -- AMA Boston: AI in Marketing, Beyond the Hype, Into Practice, 2026 (invited).
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
     * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances). Also at Agile Tour Quebec, 2026; Agile Montreal, 2026; Agile & Beyond, 2022; Scrum.org, 2022 (invited); The Job Hackers Agile Meetup, 2022 (invited); Enterprise Agile Global Community, 2022 (invited); Agile Coaching DC, 2021; Hands-On Agile, 2021; Agile+DevOps, 2020; Lean Agile Delivery & Coaching Network, 2020; Heart of England Scrum User Group, 2020; Agile London, 2020; Zoho meetup, 2020; Team Building in the Virtual World, 2020; Agile Coaching Group, 2020; Scrum Alliance webinar, 2020; Venture Cafe, 2020; XP2020; Agile Virtual Summit, 2020; Business Analyst Innovation Day, 2020; Agile RI, 2020; Agile Sales & Marketing Summit, 2019; Venture Cafe, 2019; IIL Agile & Scrum Online Conference, 2019; Management 3.0, 2019; AgileCamp San Francisco, 2018; Remote Forever Summit, 2018; AgileCamp Dallas, 2018; Boston Facilitators Roundtable, 2018; North Carolina Project Management Institute, 2018; Agile Maine Day, 2018; Professional Development Conference Hampton Roads, 2018; Metaphorum, 2018; Agile Practitioners Online, 2017; Remote Forever Summit, 2017; Agile Arizona, 2017; Agile RTP, 2017; Greatness Guild Conference, 2017; Agile Lean Europe, 2017; Agile 2017 conference; Craft, 2017; StretchCon Meetup, 2017; Agile Hartford, 2017; Kendall Square Agilists, 2017.
     * The AI Money Pit: Unit Economics, Pricing, and Survival -- Startup Boston Week, 2026 (invited).
@@ -119,7 +120,6 @@ Focused on agile software product development and high-performance team building
     * Technology and Officer Wellness: Leveraging AI for Early Detection -- IACP, Denver, 2025 (invited).
     * 6 Strings In My Head, 88 Keys In My Hands -- Music & Tech Fusion Boston, 2025.
     * Harnessing Data and Technology for Enhanced Wellness Programs -- FDIC International, 2025.
-    * Zero to Live: Build and Deploy Your First App with Continuous Delivery -- Civic Hacks, 2025.
 
 ## Awards
 
