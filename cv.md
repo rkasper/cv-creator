@@ -254,7 +254,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 * Sessions
     * Global Coding Dojo -- the monthly meet-up I host, a safe place to learn and practice coding, 2024-present.
     * Building the Product Isn't the Bottleneck Anymore -- AMA Boston: AI in Marketing, Beyond the Hype, Into Practice, 2026 (invited).
-    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances). Also at Agile Tour Quebec, 2026; Agile Montreal, 2026; Agile & Beyond, 2022; Scrum.org, 2022 (invited); The Job Hackers Agile Meetup, 2022 (invited); Enterprise Agile Global Community, 2022 (invited); Agile Coaching DC, 2021; Hands-On Agile, 2021; Agile+DevOps, 2020; Lean Agile Delivery & Coaching Network, 2020; Heart of England Scrum User Group, 2020; Agile London, 2020; Zoho meetup, 2020; Team Building in the Virtual World, 2020; Agile Coaching Group, 2020; Scrum Alliance webinar, 2020; Venture Cafe, 2020; XP2020; Agile Virtual Summit, 2020; Business Analyst Innovation Day, 2020; Agile RI, 2020; Agile Sales & Marketing Summit, 2019; Venture Cafe, 2019; IIL Agile & Scrum Online Conference, 2019; Management 3.0, 2019; AgileCamp San Francisco, 2018; Remote Forever Summit, 2018; AgileCamp Dallas, 2018; Boston Facilitators Roundtable, 2018; North Carolina Project Management Institute, 2018; Agile Maine Day, 2018; Professional Development Conference Hampton Roads, 2018; Metaphorum, 2018; Agile Practitioners Online, 2017; Remote Forever Summit, 2017; Agile Arizona, 2017; Agile RTP, 2017; Greatness Guild Conference, 2017; Agile Lean Europe, 2017; Agile 2017 conference; Craft, 2017; StretchCon Meetup, 2017; Agile Hartford, 2017; Kendall Square Agilists, 2017.
+    * High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence -- Agile Mastery, 2022 (invited at this and many other instances). Also at Agile Tour Quebec, 2026; Agile Montreal, 2026; Agile & Beyond, 2022; Scrum.org, 2022 (invited); The Job Hackers Agile Meetup, 2022 (invited); Enterprise Agile Global Community, 2022 (invited); Agile Coaching DC, 2021; Hands-On Agile, 2021; Agile+DevOps, 2020; Lean Agile Delivery & Coaching Network, 2020; Heart of England Scrum User Group, 2020; Agile London, 2020; Zoho meetup, 2020; Team Building in the Virtual World, 2020; Agile Coaching Group, 2020; Scrum Alliance webinar, 2020; Venture Cafe, 2020; XP2020; Agile Virtual Summit, 2020; Business Analyst Innovation Day, 2020; Agile RI, 2020; Agile Sales & Marketing Summit, 2019; Venture Cafe, 2019; IIL Agile & Scrum Online Conference, 2019; Management 3.0, 2019; Scrum Alliance webinar, 2019; Agile for Humanity, 2019; CodingSerbia, 2019; AgileCamp New York, 2019; AgileCamp San Francisco, 2018; Remote Forever Summit, 2018; AgileCamp Dallas, 2018; Boston Facilitators Roundtable, 2018; North Carolina Project Management Institute, 2018; Agile Maine Day, 2018; Professional Development Conference Hampton Roads, 2018; Metaphorum, 2018; Scrum Gathering London, 2018; Henry Stewart Talks, 2018; Sealights webinar, 2018; Agile Practitioners Online, 2017; Remote Forever Summit, 2017; Agile Arizona, 2017; Agile RTP, 2017; Greatness Guild Conference, 2017; Agile Lean Europe, 2017; Agile 2017 conference; Craft, 2017; StretchCon Meetup, 2017; Agile Hartford, 2017; Kendall Square Agilists, 2017; Central Ohio Agile Association, 2017.
     * The AI Money Pit: Unit Economics, Pricing, and Survival -- Startup Boston Week, 2026 (invited).
     * I Gave Six AI Agents a Scrum Board and Measured What Happened -- AI Tinkerers: Mexico City, 2026.
     * From Idea → Live App: Claude Code Mob Build (Global Coding Dojo) -- BU Spark! Civic Hacks Hackathon, 2026 (invited).
@@ -286,12 +286,15 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * Open Space facilitator -- Fostering Extraordinary Collaboration, 2020 (invited).
     * Online Agile Games Lean Coffee -- 2020.
     * Teamwork During a Pandemic: How to Work and Facilitate Online -- Agile New England, 2020.
+    * Collaborate Better and Save the World: Team Communication in Times of Crisis -- Henry Stewart Talks, 2020.
     * Hierarchy and Power Games and High-Performance Teams -- Agile Maine, 2019. Also at AgileCamp Portland, 2019; AgileCamp Chicago, 2019; Agile Hartford, 2019; NEQC, 2018; Craft Conference, 2018; Agile Games, 2018; Boston SPIN, 2018; Professional Development Conference Hampton Roads, 2018; Agile Bull City, 2017.
     * Open Space facilitator -- Agile Day NYC, 2019 (invited). 
-    * High-Performance Teams are Masters of Mindfulness Meditation -- Agile Games Conference, 2019. Also at Agile Testing and Test Automation Summit, 2019.
+    * High-Performance Teams are Masters of Mindfulness Meditation -- Agile Games Conference, 2019. Also at Agile Testing and Test Automation Summit, 2019; Agile Arizona, 2018.
+    * Make a Great Decision in 2 Minutes: The End of Long Boring Meetings -- Agile Games Conference, 2019.
     * Open Space facilitator -- Agile Games Conference, 2019.
     * Mob Programming to Learn a New Programming Language -- NEJUG, 2019.
-    * Open Space facilitator -- QCon London, New York, and San Francisco, 2014-2018 (invited).
+    * Open Space facilitator -- QCon London, New York, and San Francisco, 2013-2018 (invited).
+    * User Story Mapping, Mob Programming, and Retrospectives -- QCon San Francisco, 2018.
     * Great Team! Clean Language and the Core Protocols -- London, 2018.
     * Something About Love: Awesome Relationships Fueled by Love -- San Jose, CA, 2017.
     * Panelist: Identifying and Prioritizing Technical Debt -- Collaboration at Scale, Scrum Alliance, 2016 (invited).
@@ -299,11 +302,15 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * Continuous Teaming: Core Protocols for Great Teams and Results -- eSynergy Solutions webinar, 2016 (invited).
     * Awesome Teams: Games for Continuous (Extreme?) Teaming -- Agile Arizona, 2016 (invited).
     * Build Awesome Teams with the Core Protocols -- 2016. 
+    * Culture for Great Teams and Results: The Core Protocols -- IIBA, 2016. Also at Bay Agile Leadership Network and PMI + Agile Maine, 2016; Agile NYC, 2015; PMI New Hampshire, 2015; Agile Philly, 2015; Agile Delaware, 2015; Toronto Agile, 2015; AgileCamp Silicon Valley, 2015; Agile New England, 2015; cPrime Agile Webinar Series, 2015; CTO School Boston, 2015; Agile Boston, 2015.
+    * Your Assignment: Use Agile to Teach Yourself Agile -- Agile 2015.
     * Open Space facilitator -- Global Scrum Gathering, 2014.
     * Culture and Power Games -- Global Scrum Gathering, 2014. Also at Intel Agile and Lean Development Conference, 2014 (invited); Agile Boston, 2014.
     * Open Space facilitator -- Agile Games, 2012.
     * Agile Art! -- Agile India, 2014.
+    * Pedagogy Innovation: Teach Your Team Anything They Need to Know -- Boston CTO Summit, 2014.
     * Giving Thanks Pecha Kucha -- Give Thanks for Scrum, 2013.
+    * Open Space Technology: Lightning Intro for Facilitators -- ANE Agile Practice Group, 2013.
     * The Diamond Age: Or, A Young Rebel's Illustrated Guide -- Rebel Jam, 2013. Also at Stoos Sparks #3, 2013.
     * Ball Point Game -- Agile for Executives, 2013 (invited).
     * Radical Innovation: The Six Week Open Space Experiment -- Scrum Gathering Barcelona, 2013. Also at Agile Connecticut, 2013, Agile Boston, 2012
@@ -323,6 +330,11 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * J2ME Provisioning -- Boston Mobile, 2004.
     * J2ME guest lecture -- Harvard CSCI E-68 Applied Innovation in Mobile Computing, 2004 (invited).
     * The Power of J2ME: The Enterprise at Your Fingertips -- EDGE 2004 East, 2004.
+    * Building Better Java Applications -- Software and Internet Quality Week Europe, Brussels, 2000.
+    * Opportunistic Software Quality -- Thirteenth International Software Quality Week, San Francisco, 2000.
+    * Design and Implementation of a Java Test Driver -- Sixteenth International Conference on Software Testing, Washington, DC, 1999.
+    * Automated Testing and Java Class Libraries -- Eleventh International Software Quality Week, San Francisco, 1998.
+    * Experiences with Automated Testing -- Business Information Systems (BIS '98), Poznan, Poland, 1998. Also at the Fourteenth International Conference on Software Testing, Washington, DC, 1997.
 
 ## Awards
 
