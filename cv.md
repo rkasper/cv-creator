@@ -323,7 +323,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
     * Use Agile for Mobile and Be Awesome -- MobiCamp Boston, 2010. Also at MobiCamp Boston, 2009.
     * Sneaky Scrum! -- Global Scrum Gathering, 2010.
     * From AnyCo to AwesomeCo: A Case Study in Scrum Transformation -- Global Scrum Gathering, 2010.
-    * Brief Intro to Mobile App Platforms -- guest lecture at New England Institute of Art's WDIM 458 Mobile Design and Development, 2009 (invited).
+    * Brief Intro to Mobile App Platforms -- Guest lecture at New England Institute of Art's WDIM 458 Mobile Design and Development, 2009 (invited).
     * Winning Clients with Scrum and Agile -- CCABoston, 2009.
     * Mobile Success Factors: How to Succeed, How to Fail -- MobiCamp Boston, 2009.
     * Mobile Advertising for Developers -- MobiCamp Boston, 2008.
