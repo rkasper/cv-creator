@@ -8,8 +8,8 @@ For full details, see [my complete CV](https://kasperowski.com/cv/).
 ### Founding Instructor and Mentor -- Boston University -- 2018-2021, 2025
 [Spark! fellowship](https://bu.edu/spark): founding instructor recruited to develop original curriculum; team lead for software engineering, agile software development, and high-performance teams (2018-2021); mentor (2025).
 
-### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | Certified Agile Team Building](https://kasperowski.com) -- 2013-present
-* [Certified Agile Team Building&trade; program](https://kasperowski.com/training/): author and instructor. Topics: Agile Technical Skills, Advanced Agile Technical Skills, High-Performance Team Building&trade;, Agile & Scrum Foundations, and Agile Product Owner Skills
+### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | With Great People](https://kasperowski.com) -- 2013-present
+* [With Great People training program](https://kasperowski.com/training/): author and instructor. Topics: Agile Technical Skills, Advanced Agile Technical Skills, High-Performance Team Building&trade;, Agile & Scrum Foundations, and Agile Product Owner Skills
 * Executive and team coach, [keynote speaker](https://kasperowski.com/keynotes/), author, [podcast](https://kasperowski.com/podcast) creator and host
 
 ### Instructor -- LinkedIn Learning -- 2018-present
@@ -32,7 +32,7 @@ Professional certifications: Certified Scrum Master (2009), Certified Scrum Prof
 ### Co-founder and CTO -- [Alli Connect](https://alliconnect.com/) (Techstars '22) -- 2022-present
 Lead technical vision for predictive mental wellness platform serving 30+ fire and police departments with 770+ monthly active users. Responsibilities include product ownership, architecture, development, and operations. Built privacy-first platform with React Native, Micronaut, PostgreSQL, and AI-powered features. Achieved 88% therapist matching success rate and HIPAA-grade security certification.
 
-### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | Certified Agile Team Building -- 2013-present
+### Teacher, Coach, Consultant, Keynote Speaker, Author -- Richard Kasperowski | With Great People -- 2013-present
 (See description above.)
 
 ### Agile Coach/Manager, Senior Software Engineering Manager -- Nokia -- 2010-2013
