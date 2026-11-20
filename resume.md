@@ -93,7 +93,7 @@ Focused on agile software product development and high-performance team building
 * [Frecuencias diferentes](https://santosblackwood.com), as Santos Blackwood, 2025.
 * [Manifesto for Online Collaboration](https://onlinecollaborationmanifesto.com), with Matt Barnaby, Barb Bickford, et al, 2022.
 * [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 92 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
-* [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 107 articles on team building, innovation, creativity, and agile software development, 2008-2022.
+* [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 112 articles on team building, innovation, creativity, agile software development, and AI, 2008-present.
 * [*High-Performance Teams: The Foundations*](https://kasperowski.com/high-performance-teams-the-foundations/), C4Media, 2019.
 * ["High-Performance Team Behaviors" measurement instrument](https://kasperowski.com/diagnostic/), Comparative Agility, 2018.
 * [*Agile & Scrum Foundations Class Workbook*](https://kasperowski.com/agile-scrum-foundations-class-workbook/), With Great People Publications, 2018.

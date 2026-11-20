@@ -24,7 +24,7 @@ Key technical accomplishments include:
 * Developed integrations with Qualtrics, Auth0, Twilio, and emerging Cumulative Exposure Monitoring features that analyze CAD system data for early intervention
 
 ### Teacher, Coach, Consultant, Keynote Speaker, Author -- [Richard Kasperowski | With Great People](https://kasperowski.com) -- 2013-present
-I created and teach the With Great People training program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams. I publish a blog, and I am developing an interactive e-book/ self-paced online course on the same topic. Through the nearly 80 episodes of my podcast, With Great People: The Podcast for High-Performance Teams, I interview thought leaders in agility and team performance to share their knowledge with the world. 
+I created and teach the With Great People training program to clients in industry. I coach executives and execution teams to be their best. I am a regular keynote speaker, session speaker, and organizer of regional and global conferences related to agile software development. I have written two books about high-performance teams, and I publish a blog. Through the 92 episodes of my podcast, With Great People: The Podcast for High-Performance Teams (2017-2022), I interviewed thought leaders in agility and team performance to share their knowledge with the world. 
 My industry classes include:
 
 * Agile Technical Skills: a coding dojo to learn the technical foundations of Agile, including extreme programming (XP), pair programming, mob programming, test-driven development (TDD), working with legacy code, refactoring and refactoring patterns, clean code, code smells, and code coverage; taught in the client's choice of programming language, including C/C++, Java, Python, C#, TypeScript/JavaScript, and Scratch
@@ -229,7 +229,7 @@ I assisted the course CSCI E-124 Data Structures and Algorithms. I taught weekly
 * [Frecuencias diferentes](https://santosblackwood.com), as Santos Blackwood, 2025.
 * [Manifesto for Online Collaboration](https://onlinecollaborationmanifesto.com), with Matt Barnaby, Barb Bickford, et al, 2022.
 * [With Great People](https://kasperowski.com/podcast/): The Podcast for High-Performance Teams, 92 episodes of interviews and monologues exploring technical work teams, collaboration, and creativity, 2017-2022.
-* [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 107 articles on team building, innovation, creativity, and agile software development, 2008-2022.
+* [Richard Kasperowski's Blog](https://kasperowski.com/blog/), 112 articles on team building, innovation, creativity, agile software development, and AI, 2008-present.
 * [*High-Performance Teams: The Foundations*](https://kasperowski.com/high-performance-teams-the-foundations/), C4Media, 2019.
 * ["High-Performance Team Behaviors" measurement instrument](https://kasperowski.com/diagnostic/), Comparative Agility, 2018.
 * [*Agile & Scrum Foundations Class Workbook*](https://kasperowski.com/agile-scrum-foundations-class-workbook/), With Great People Publications, 2018.
